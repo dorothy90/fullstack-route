@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "generatedAt": "2025-05-06T13:05:10.403Z",
+    "tasksAnalyzed": 12,
+    "thresholdScore": 5,
+    "projectName": "Taskmaster",
+    "usedResearch": false
+  },
+  "complexityAnalysis": [
+    {
+      "taskId": 1,
+      "taskTitle": "Initialize Project Structure",
+      "complexityScore": 4,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Break down the project initialization into: Next.js setup, Vite integration, Tailwind CSS configuration, and verification of dark mode utilities.",
+      "reasoning": "This task involves multiple tool integrations (Next.js, Vite, Tailwind) and custom configuration, but each step is well-documented and commonly performed in modern web projects. Complexity is moderate due to the need for correct interoperation and configuration."
+    },
+    {
+      "taskId": 2,
+      "taskTitle": "Implement CSV Auto-Loader",
+      "complexityScore": 7,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Expand into subtasks for: directory watching setup, CSV parsing logic, React context integration, error boundary implementation, and edge case testing.",
+      "reasoning": "This task combines file system watching, data parsing, state management, and robust error handling. Each aspect introduces potential edge cases and integration challenges, raising overall complexity."
+    },
+    {
+      "taskId": 3,
+      "taskTitle": "Build Data Table Component",
+      "complexityScore": 7,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Decompose into: table structure setup, virtualization integration, fixed header implementation, row click/expand logic, and performance testing.",
+      "reasoning": "Building a performant, interactive table with virtualization and custom event handling is non-trivial, especially with large datasets and UI responsiveness requirements."
+    },
+    {
+      "taskId": 4,
+      "taskTitle": "Develop Expandable Detail View",
+      "complexityScore": 6,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Split into: animation setup, panel structure, image gallery integration, and comment display logic.",
+      "reasoning": "Requires animation, dynamic content rendering, and integration of additional features (gallery, comments), but is focused on a single UI component."
+    },
+    {
+      "taskId": 5,
+      "taskTitle": "Implement Attachment System",
+      "complexityScore": 7,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Expand into: file input component, drag-and-drop support, localStorage management, preview rendering, and markdown comment support.",
+      "reasoning": "Involves file handling, persistent storage, UI previews, and text formatting, each with its own set of edge cases and user experience considerations."
+    },
+    {
+      "taskId": 6,
+      "taskTitle": "Build Filtering System",
+      "complexityScore": 6,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Break down into: filter UI controls, filter logic implementation, performance optimization, and edge case testing.",
+      "reasoning": "Multi-criteria filtering with performance considerations is moderately complex, especially with large datasets and compound logic."
+    },
+    {
+      "taskId": 7,
+      "taskTitle": "Implement Dark Mode Toggle",
+      "complexityScore": 4,
+      "recommendedSubtasks": 3,
+      "expansionPrompt": "Divide into: theme context setup, system preference detection, and manual toggle with persistence.",
+      "reasoning": "Theme toggling is a common feature with established patterns, but requires careful handling of system preferences and state persistence."
+    },
+    {
+      "taskId": 8,
+      "taskTitle": "Optimize Data Handling",
+      "complexityScore": 7,
+      "recommendedSubtasks": 5,
+      "expansionPrompt": "Expand into: virtualization integration, caching setup, loading skeletons, error fallback UI, and performance benchmarking.",
+      "reasoning": "Optimization tasks require understanding of performance bottlenecks, integration of third-party libraries, and robust fallback mechanisms."
+    },
+    {
+      "taskId": 9,
+      "taskTitle": "Add Error Boundaries",
+      "complexityScore": 5,
+      "recommendedSubtasks": 3,
+      "expansionPrompt": "Split into: error boundary component creation, retry mechanism implementation, and user-friendly error messaging.",
+      "reasoning": "Error boundaries are a React pattern, but implementing robust recovery and messaging adds moderate complexity."
+    },
+    {
+      "taskId": 10,
+      "taskTitle": "Implement Analytics Instrumentation",
+      "complexityScore": 5,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Break down into: analytics integration, event tracking for key actions, data anonymization, and verification/testing.",
+      "reasoning": "Instrumentation is straightforward but requires careful handling of privacy, event coverage, and validation."
+    },
+    {
+      "taskId": 11,
+      "taskTitle": "Prepare Backend Integration",
+      "complexityScore": 6,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Expand into: Firebase initialization, service abstraction layer, CRUD hooks implementation, and sync testing.",
+      "reasoning": "Backend integration with Firebase involves setup, abstraction, and real-time data handling, each with potential pitfalls."
+    },
+    {
+      "taskId": 12,
+      "taskTitle": "Implement Export Functionality",
+      "complexityScore": 5,
+      "recommendedSubtasks": 4,
+      "expansionPrompt": "Divide into: CSV generation, attachment metadata inclusion, zip bundle creation, and export verification.",
+      "reasoning": "Exporting data with attachments requires data transformation, file handling, and user interface considerations, but is a well-scoped feature."
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+FAB,DEVICE,TECH,MEMORY_TYPE,제목,상태,담당자,마감일
+TSMC,GPU,20nm,NAND,렌더링 개선 검토,완료,강민호,2025-06-04
+TSMC,CPU,10nm,NAND,CPU 성능 구현,대기중,최민수,2025-07-18
+TSMC,FPGA,10nm,DRAM,프로그래머블 로직 시뮬레이션,보류,윤석민,2025-06-14
+UMC,Memory,5nm,NAND,램 설계 검증,보류,김하성,2025-06-25
+TSMC,Memory,10nm,DRAM,메모리 테스트 개선,진행중,윤석민,2025-08-05
+TSMC,CPU,28nm,NAND,프로세서 최적화 시뮬레이션 #1,진행중,김하성,2025-05-28
+SK Hynix,MCU,3nm,NAND,저전력 MCU 테스트,보류,장원삼,2025-06-19
+SK Hynix,MCU,16nm,DRAM,제어 유닛 분석,완료,홍길동,2025-07-20
+Samsung,MCU,28nm,NAND,저전력 MCU 구현,대기중,박지성,2025-07-26
+TSMC,GPU,20nm,NAND,비주얼 엔진 분석,완료,이정후,2025-07-18
+SK Hynix,MCU,16nm,DRAM,마이크로컨트롤러 검토 #2,대기중,홍길동,2025-06-22
+Samsung,MCU,7nm,NAND,제어 유닛 분석,진행중,오지환,2025-07-18
+TSMC,GPU,7nm,DRAM,GPU 아키텍처 구현,보류,나성범,2025-06-14
+TSMC,Memory,4nm,NAND,메모리 테스트 벤치마크,검토중,최민수,2025-07-12
+GlobalFoundries,GPU,5nm,DRAM,GPU 성능 검증,진행중,강민호,2025-06-30
+TSMC,SoC,5nm,DRAM,복합 칩 벤치마크 #3,진행중,김하성,2025-06-08
+Micron,MCU,14nm,DRAM,저전력 MCU 테스트,진행중,김철수,2025-06-27
+Samsung,FPGA,7nm,NAND,하드웨어 가속 개선,완료,이정후,2025-08-11
+Intel,DSP,7nm,DRAM,알고리즘 가속 시뮬레이션,대기중,이영희,2025-07-18
+Intel,MCU,16nm,DRAM,저전력 MCU 테스트,보류,나성범,2025-07-01
+SK Hynix,MCU,7nm,DRAM,임베디드 제어 설계 #4,대기중,박병호,2025-07-06
+GlobalFoundries,MCU,28nm,NAND,저전력 MCU 개선,검토중,이영희,2025-06-05
+SK Hynix,MCU,10nm,DRAM,임베디드 제어 검증,완료,윤석민,2025-07-08
+GlobalFoundries,CPU,28nm,NAND,프로세서 최적화 테스트,보류,장원삼,2025-08-12
+Micron,FPGA,20nm,DRAM,프로그래머블 로직 테스트,진행중,김현수,2025-07-31
+SK Hynix,DSP,28nm,NAND,데이터 처리 개발 #5,대기중,이영희,2025-05-29
+UMC,Memory,5nm,NAND,메모리 확장 개발,대기중,최민수,2025-08-11
+UMC,GPU,3nm,NAND,렌더링 개선 구현,검토중,장원삼,2025-08-08
+SK Hynix,MCU,4nm,NAND,마이크로컨트롤러 개선,대기중,홍길동,2025-05-22
+SK Hynix,FPGA,4nm,DRAM,FPGA 구현 구현,보류,정수빈,2025-07-10
+UMC,MCU,10nm,NAND,임베디드 제어 설계 #6,대기중,이영희,2025-08-05
+Samsung,FPGA,3nm,NAND,하드웨어 가속 평가,완료,강민호,2025-07-14
+Micron,FPGA,5nm,DRAM,논리회로 검증,보류,박병호,2025-06-21
+Intel,GPU,16nm,NAND,GPU 성능 개선,대기중,손아섭,2025-06-04
+Micron,MCU,16nm,NAND,제어 유닛 시뮬레이션,대기중,박지성,2025-06-05
+TSMC,CPU,3nm,NAND,프로세서 최적화 검토 #7,보류,박병호,2025-08-01
+GlobalFoundries,CPU,28nm,DRAM,코어 개발 시뮬레이션,검토중,이정후,2025-08-06
+Intel,SoC,4nm,DRAM,시스템온칩 시뮬레이션,진행중,강민호,2025-07-21
+Intel,FPGA,7nm,DRAM,하드웨어 가속 개선,검토중,나성범,2025-08-04
+TSMC,FPGA,14nm,NAND,FPGA 최적화 평가,보류,손아섭,2025-07-24
+GlobalFoundries,SoC,14nm,NAND,임베디드 시스템 테스트 #8,검토중,최민수,2025-07-15
+SK Hynix,DSP,10nm,DRAM,데이터 처리 설계,완료,오지환,2025-07-16
+UMC,CPU,14nm,DRAM,CPU 설계 분석,진행중,강민호,2025-07-13
+SK Hynix,FPGA,16nm,NAND,논리회로 설계,검토중,이정후,2025-05-18
+Micron,DSP,16nm,DRAM,데이터 처리 테스트,진행중,박지성,2025-06-16
+Intel,MCU,28nm,NAND,임베디드 제어 검토 #9,검토중,정수빈,2025-06-26
+GlobalFoundries,SoC,5nm,DRAM,SoC 설계 검증,완료,이영희,2025-08-10
+SK Hynix,GPU,14nm,NAND,비주얼 엔진 개선,검토중,나성범,2025-06-14
+Samsung,SoC,7nm,NAND,SoC 설계 개선,검토중,손아섭,2025-06-24
+TSMC,DSP,16nm,NAND,알고리즘 가속 검증,진행중,김현수,2025-05-28
+SK Hynix,DSP,5nm,DRAM,필터 설계 구현 #10,보류,나성범,2025-08-11
+TSMC,SoC,28nm,DRAM,복합 칩 시뮬레이션,대기중,박지성,2025-05-22
+SK Hynix,DSP,16nm,NAND,필터 설계 개선,검토중,나성범,2025-05-16
+Intel,CPU,4nm,NAND,프로세서 최적화 개발,완료,김하성,2025-07-18
+GlobalFoundries,SoC,4nm,DRAM,통합 회로 평가,대기중,강민호,2025-07-05
+UMC,FPGA,3nm,NAND,FPGA 최적화 평가 #11,검토중,김현수,2025-05-17
+GlobalFoundries,Memory,16nm,NAND,램 설계 개선,보류,양의지,2025-06-08
+Samsung,SoC,14nm,DRAM,통합 회로 분석,완료,이정후,2025-06-04
+SK Hynix,SoC,14nm,DRAM,시스템온칩 설계,진행중,김현수,2025-07-01
+Samsung,MCU,20nm,DRAM,MCU 설계 설계,완료,이정후,2025-06-19
+TSMC,Memory,28nm,NAND,램 설계 분석 #12,진행중,이정후,2025-06-12
+UMC,CPU,14nm,NAND,CPU 설계 검증,진행중,손아섭,2025-06-06
+TSMC,FPGA,14nm,DRAM,하드웨어 가속 검토,대기중,양의지,2025-07-29
+Intel,FPGA,20nm,NAND,FPGA 최적화 설계,대기중,나성범,2025-05-21
+SK Hynix,CPU,28nm,DRAM,프로세서 최적화 벤치마크,검토중,정수빈,2025-06-07
+Intel,GPU,14nm,DRAM,비주얼 엔진 개발 #13,보류,손아섭,2025-07-04
+Intel,GPU,4nm,DRAM,렌더링 개선 분석,보류,김현수,2025-07-18
+Samsung,DSP,16nm,DRAM,알고리즘 가속 시뮬레이션,완료,이정후,2025-07-13
+Samsung,CPU,14nm,DRAM,코어 개발 벤치마크,완료,박병호,2025-05-15
+Samsung,SoC,16nm,NAND,SoC 설계 설계,검토중,최민수,2025-08-05
+TSMC,Memory,5nm,DRAM,저장소 개선 벤치마크 #14,완료,손아섭,2025-05-16
+Micron,GPU,3nm,DRAM,렌더링 개선 평가,진행중,박병호,2025-08-08
+UMC,DSP,7nm,NAND,데이터 처리 설계,검토중,김하성,2025-06-03
+Micron,DSP,4nm,DRAM,신호처리 분석,보류,박지성,2025-07-23
+Intel,CPU,10nm,DRAM,CPU 성능 구현,대기중,이영희,2025-05-20
+Intel,GPU,3nm,NAND,GPU 아키텍처 개발 #15,검토중,장원삼,2025-07-21
+Micron,CPU,10nm,NAND,연산 처리 테스트,검토중,홍길동,2025-05-28
+Samsung,SoC,20nm,DRAM,SoC 설계 설계,검토중,나성범,2025-07-01
+SK Hynix,SoC,16nm,DRAM,임베디드 시스템 테스트,완료,나성범,2025-07-04
+Samsung,FPGA,5nm,DRAM,FPGA 최적화 시뮬레이션,보류,박병호,2025-07-27
+Samsung,GPU,7nm,DRAM,GPU 성능 구현 #16,보류,김하성,2025-05-15
+TSMC,GPU,3nm,NAND,비주얼 엔진 개선,검토중,강민호,2025-08-09
+TSMC,GPU,3nm,DRAM,렌더링 개선 테스트,진행중,장원삼,2025-05-16
+Samsung,GPU,28nm,DRAM,그래픽 처리 분석,대기중,김철수,2025-08-09
+UMC,Memory,20nm,NAND,메모리 최적화 시뮬레이션,검토중,나성범,2025-06-13
+Intel,MCU,7nm,NAND,MCU 설계 평가 #17,진행중,나성범,2025-05-30
+SK Hynix,MCU,5nm,DRAM,마이크로컨트롤러 벤치마크,보류,손아섭,2025-07-27
+Samsung,Memory,10nm,NAND,메모리 확장 벤치마크,완료,오지환,2025-07-28
+Samsung,FPGA,20nm,NAND,프로그래머블 로직 분석,완료,김철수,2025-06-16
+Micron,Memory,20nm,NAND,메모리 최적화 시뮬레이션,대기중,김철수,2025-05-29
+UMC,GPU,3nm,DRAM,렌더링 개선 평가 #18,완료,이영희,2025-07-31
+UMC,DSP,4nm,NAND,DSP 최적화 구현,완료,박지성,2025-08-07
+UMC,GPU,10nm,NAND,GPU 성능 설계,진행중,이대호,2025-07-25
+SK Hynix,GPU,7nm,NAND,GPU 성능 개발,대기중,박병호,2025-07-07
+SK Hynix,GPU,5nm,NAND,그래픽 처리 검증,완료,나성범,2025-06-23
+SK Hynix,DSP,4nm,NAND,DSP 최적화 구현 #19,완료,정수빈,2025-06-02
+Micron,CPU,7nm,DRAM,연산 처리 설계,완료,최민수,2025-08-10
+Micron,MCU,16nm,DRAM,제어 유닛 평가,진행중,김현수,2025-06-10
+GlobalFoundries,MCU,16nm,NAND,MCU 설계 개선,검토중,최민수,2025-07-18
+SK Hynix,MCU,3nm,NAND,마이크로컨트롤러 벤치마크,검토중,박지성,2025-07-16
+Intel,CPU,20nm,NAND,CPU 설계 벤치마크 #20,진행중,장원삼,2025-07-06
+UMC,MCU,28nm,DRAM,저전력 MCU 평가,완료,김하성,2025-07-06
+TSMC,SoC,20nm,NAND,복합 칩 검토,검토중,강민호,2025-06-22
+GlobalFoundries,SoC,10nm,DRAM,시스템온칩 분석,완료,홍길동,2025-08-07
+Intel,GPU,28nm,DRAM,렌더링 개선 평가,검토중,최민수,2025-05-18
+GlobalFoundries,DSP,14nm,NAND,데이터 처리 시뮬레이션 #21,검토중,손아섭,2025-06-29
+Intel,MCU,7nm,NAND,MCU 설계 평가,완료,박지성,2025-07-05
+SK Hynix,SoC,28nm,DRAM,임베디드 시스템 시뮬레이션,완료,윤석민,2025-06-12
+Micron,SoC,4nm,DRAM,임베디드 시스템 평가,대기중,손아섭,2025-05-18
+Micron,SoC,10nm,DRAM,임베디드 시스템 검토,완료,강민호,2025-08-07
+Micron,Memory,10nm,DRAM,메모리 확장 개선 #22,진행중,이영희,2025-06-23
+UMC,DSP,7nm,DRAM,알고리즘 가속 테스트,보류,윤석민,2025-05-25
+Intel,CPU,4nm,DRAM,CPU 성능 검토,검토중,최민수,2025-07-31
+GlobalFoundries,CPU,20nm,NAND,CPU 설계 개선,검토중,손아섭,2025-06-09
+TSMC,MCU,4nm,NAND,제어 유닛 시뮬레이션,보류,김현수,2025-06-03
+Micron,CPU,20nm,NAND,CPU 성능 테스트 #23,보류,김철수,2025-07-02
+Intel,FPGA,16nm,NAND,하드웨어 가속 구현,진행중,이정후,2025-07-04
+SK Hynix,MCU,7nm,NAND,제어 유닛 시뮬레이션,완료,최민수,2025-06-29
+GlobalFoundries,GPU,5nm,NAND,렌더링 개선 검증,검토중,양의지,2025-08-08
+Samsung,FPGA,10nm,NAND,논리회로 벤치마크,검토중,오지환,2025-07-14
+SK Hynix,MCU,10nm,NAND,임베디드 제어 개선 #24,진행중,김철수,2025-05-20
+Intel,MCU,7nm,DRAM,MCU 설계 벤치마크,보류,이정후,2025-06-08
+Samsung,CPU,3nm,DRAM,CPU 설계 시뮬레이션,완료,윤석민,2025-06-28
+Micron,SoC,5nm,DRAM,복합 칩 설계,진행중,김하성,2025-07-15
+GlobalFoundries,Memory,14nm,DRAM,메모리 최적화 검토,진행중,홍길동,2025-08-02
+Micron,CPU,10nm,NAND,코어 개발 평가 #25,검토중,홍길동,2025-08-05
+Micron,GPU,28nm,NAND,GPU 성능 분석,보류,오지환,2025-07-01
+Samsung,CPU,7nm,NAND,CPU 성능 분석,보류,이대호,2025-06-30
+Samsung,Memory,7nm,NAND,메모리 테스트 평가,보류,김철수,2025-06-07
+Micron,SoC,14nm,DRAM,복합 칩 개발,진행중,홍길동,2025-06-03
+UMC,SoC,28nm,DRAM,복합 칩 설계 #26,검토중,강민호,2025-07-11
+SK Hynix,GPU,28nm,NAND,GPU 아키텍처 설계,검토중,이영희,2025-06-26
+Intel,GPU,28nm,DRAM,비주얼 엔진 평가,검토중,나성범,2025-06-08
+TSMC,GPU,28nm,NAND,그래픽 처리 테스트,진행중,김현수,2025-05-26
+UMC,SoC,28nm,DRAM,통합 회로 시뮬레이션,완료,김철수,2025-06-28
+Intel,SoC,14nm,DRAM,임베디드 시스템 개선 #27,보류,김철수,2025-06-19
+Samsung,SoC,4nm,NAND,임베디드 시스템 테스트,진행중,손아섭,2025-07-27
+SK Hynix,DSP,14nm,DRAM,알고리즘 가속 테스트,대기중,이정후,2025-07-24
+UMC,GPU,7nm,DRAM,그래픽 처리 시뮬레이션,보류,홍길동,2025-05-15
+TSMC,DSP,10nm,DRAM,DSP 최적화 검토,검토중,김하성,2025-05-21
+GlobalFoundries,SoC,16nm,DRAM,SoC 설계 검토 #28,보류,최민수,2025-05-17
+UMC,CPU,10nm,NAND,연산 처리 개선,대기중,박지성,2025-08-10
+TSMC,SoC,3nm,NAND,시스템온칩 검토,검토중,이정후,2025-07-13
+SK Hynix,SoC,3nm,NAND,통합 회로 검증,진행중,이대호,2025-07-14
+Intel,SoC,7nm,DRAM,시스템온칩 개선,대기중,나성범,2025-08-09
+GlobalFoundries,MCU,3nm,NAND,MCU 설계 설계 #29,진행중,이영희,2025-08-09
+SK Hynix,Memory,20nm,NAND,램 설계 검토,보류,윤석민,2025-07-12
+Micron,DSP,5nm,NAND,신호처리 평가,진행중,이영희,2025-07-01
+SK Hynix,FPGA,20nm,NAND,프로그래머블 로직 벤치마크,완료,양의지,2025-07-03
+UMC,DSP,5nm,NAND,알고리즘 가속 설계,완료,손아섭,2025-07-14
+SK Hynix,Memory,10nm,NAND,저장소 개선 평가 #30,보류,강민호,2025-07-29
+GlobalFoundries,Memory,5nm,NAND,램 설계 설계,완료,이영희,2025-06-10
+TSMC,GPU,7nm,DRAM,비주얼 엔진 벤치마크,대기중,정수빈,2025-06-01
+GlobalFoundries,SoC,28nm,NAND,복합 칩 구현,보류,김철수,2025-08-10
+Micron,SoC,10nm,DRAM,시스템온칩 검증,진행중,손아섭,2025-08-03
+Intel,Memory,16nm,NAND,램 설계 검토 #31,보류,박지성,2025-07-08
+TSMC,GPU,10nm,NAND,그래픽 처리 검토,진행중,김철수,2025-08-03
+GlobalFoundries,DSP,5nm,DRAM,데이터 처리 설계,완료,이영희,2025-06-30
+UMC,FPGA,3nm,NAND,FPGA 최적화 테스트,대기중,박지성,2025-06-21
+TSMC,DSP,4nm,DRAM,알고리즘 가속 개발,검토중,장원삼,2025-07-14
+Micron,CPU,20nm,NAND,프로세서 최적화 분석 #32,진행중,이정후,2025-07-02
+TSMC,SoC,5nm,NAND,복합 칩 개발,진행중,손아섭,2025-07-17
+Samsung,SoC,16nm,NAND,임베디드 시스템 개발,진행중,이정후,2025-06-30
+UMC,CPU,10nm,NAND,CPU 성능 분석,검토중,양의지,2025-07-24
+GlobalFoundries,Memory,16nm,NAND,메모리 최적화 벤치마크,진행중,김하성,2025-06-11
+GlobalFoundries,FPGA,4nm,NAND,FPGA 최적화 검토 #33,대기중,김하성,2025-06-05
+Samsung,GPU,16nm,NAND,렌더링 개선 구현,대기중,오지환,2025-07-14
+Micron,SoC,3nm,NAND,복합 칩 테스트,완료,이정후,2025-06-19
+Intel,MCU,7nm,NAND,마이크로컨트롤러 검증,검토중,이대호,2025-08-08
+TSMC,CPU,28nm,DRAM,CPU 설계 검증,대기중,김현수,2025-06-10
+Micron,GPU,16nm,DRAM,비주얼 엔진 벤치마크 #34,검토중,윤석민,2025-05-19
+Samsung,Memory,14nm,NAND,램 설계 테스트,진행중,윤석민,2025-08-07
+UMC,Memory,5nm,NAND,메모리 확장 개발,검토중,김하성,2025-05-24
+SK Hynix,SoC,20nm,NAND,시스템온칩 테스트,완료,이영희,2025-05-15
+Intel,GPU,3nm,NAND,GPU 아키텍처 개선,대기중,박병호,2025-07-03
+Micron,FPGA,4nm,DRAM,하드웨어 가속 구현 #35,대기중,윤석민,2025-07-01
+SK Hynix,SoC,14nm,NAND,시스템온칩 검토,완료,오지환,2025-07-14
+SK Hynix,CPU,3nm,NAND,프로세서 최적화 벤치마크,완료,나성범,2025-06-06
+Intel,FPGA,3nm,NAND,프로그래머블 로직 개선,검토중,김철수,2025-07-25
+UMC,Memory,16nm,NAND,램 설계 분석,대기중,손아섭,2025-06-11
+SK Hynix,FPGA,16nm,DRAM,FPGA 최적화 벤치마크 #36,보류,이정후,2025-07-02
+Intel,DSP,3nm,DRAM,알고리즘 가속 개발,대기중,강민호,2025-06-22
+Intel,DSP,16nm,DRAM,알고리즘 가속 시뮬레이션,대기중,나성범,2025-06-14
+SK Hynix,MCU,14nm,DRAM,임베디드 제어 분석,대기중,김현수,2025-06-19
+GlobalFoundries,FPGA,7nm,NAND,FPGA 구현 검토,완료,나성범,2025-07-01
+SK Hynix,Memory,3nm,NAND,메모리 테스트 시뮬레이션 #37,검토중,이정후,2025-08-12
+Micron,Memory,28nm,NAND,메모리 확장 시뮬레이션,완료,정수빈,2025-06-19
+Intel,CPU,14nm,DRAM,CPU 설계 벤치마크,완료,김철수,2025-06-01
+TSMC,FPGA,5nm,DRAM,FPGA 구현 설계,완료,오지환,2025-06-27
+GlobalFoundries,CPU,4nm,DRAM,프로세서 최적화 구현,대기중,김하성,2025-07-20
+Intel,GPU,16nm,DRAM,GPU 아키텍처 분석 #38,대기중,이영희,2025-08-03
+SK Hynix,SoC,7nm,NAND,시스템온칩 개발,보류,나성범,2025-06-01
+UMC,GPU,20nm,NAND,GPU 성능 개선,완료,양의지,2025-07-22
+TSMC,CPU,3nm,NAND,CPU 설계 설계,보류,나성범,2025-07-27
+GlobalFoundries,GPU,3nm,NAND,GPU 아키텍처 검증,보류,이영희,2025-06-22
+Micron,DSP,10nm,DRAM,데이터 처리 구현 #39,검토중,이정후,2025-06-28
+TSMC,FPGA,16nm,NAND,FPGA 구현 검토,보류,김하성,2025-06-18
+Intel,Memory,14nm,DRAM,메모리 테스트 설계,보류,양의지,2025-06-01
+SK Hynix,SoC,28nm,NAND,SoC 설계 분석,진행중,손아섭,2025-08-07
+GlobalFoundries,Memory,4nm,NAND,메모리 테스트 분석,보류,장원삼,2025-07-13
+Micron,Memory,7nm,DRAM,램 설계 구현 #40,진행중,강민호,2025-06-19
+TSMC,SoC,3nm,NAND,시스템온칩 테스트,보류,윤석민,2025-05-25
+Samsung,GPU,5nm,NAND,렌더링 개선 설계,검토중,오지환,2025-05-16
+Micron,GPU,20nm,DRAM,GPU 성능 개발,보류,김현수,2025-06-30
+UMC,MCU,16nm,NAND,마이크로컨트롤러 분석,보류,이정후,2025-07-29
+Samsung,Memory,10nm,NAND,메모리 최적화 검토 #41,완료,김현수,2025-05-17
+Micron,CPU,7nm,NAND,코어 개발 평가,진행중,박병호,2025-06-04
+GlobalFoundries,FPGA,5nm,NAND,FPGA 최적화 설계,대기중,장원삼,2025-06-24
+Micron,CPU,28nm,NAND,CPU 성능 평가,검토중,김하성,2025-06-27
+GlobalFoundries,GPU,10nm,NAND,그래픽 처리 평가,완료,이대호,2025-07-01
+TSMC,FPGA,16nm,DRAM,하드웨어 가속 검증 #42,대기중,이대호,2025-08-08
+Samsung,FPGA,20nm,NAND,프로그래머블 로직 개발,완료,이대호,2025-06-22
+TSMC,SoC,16nm,NAND,시스템온칩 평가,보류,홍길동,2025-06-01
+Micron,SoC,20nm,DRAM,복합 칩 개선,진행중,정수빈,2025-06-08
+SK Hynix,SoC,3nm,NAND,통합 회로 개발,대기중,강민호,2025-08-08
+SK Hynix,DSP,3nm,DRAM,신호처리 분석 #43,완료,강민호,2025-06-25
+UMC,MCU,20nm,NAND,MCU 설계 분석,대기중,박병호,2025-07-01
+UMC,FPGA,20nm,DRAM,논리회로 개발,검토중,김철수,2025-06-12
+UMC,FPGA,3nm,DRAM,프로그래머블 로직 검토,검토중,박병호,2025-06-22
+TSMC,FPGA,16nm,NAND,프로그래머블 로직 구현,진행중,정수빈,2025-08-07
+Samsung,GPU,3nm,NAND,렌더링 개선 개발 #44,완료,나성범,2025-06-15
+Intel,CPU,10nm,DRAM,CPU 설계 설계,완료,손아섭,2025-06-01
+TSMC,GPU,7nm,DRAM,렌더링 개선 개발,대기중,손아섭,2025-05-31
+Intel,Memory,3nm,NAND,저장소 개선 분석,진행중,김하성,2025-07-02
+Micron,GPU,14nm,NAND,GPU 아키텍처 평가,검토중,양의지,2025-06-01
+GlobalFoundries,SoC,28nm,DRAM,복합 칩 평가 #45,진행중,박지성,2025-07-28
+UMC,DSP,16nm,NAND,알고리즘 가속 검증,검토중,손아섭,2025-07-23
+Samsung,DSP,28nm,NAND,신호처리 분석,대기중,장원삼,2025-06-20
+SK Hynix,GPU,7nm,DRAM,GPU 성능 시뮬레이션,대기중,윤석민,2025-06-11
+Micron,MCU,14nm,NAND,MCU 설계 개발,보류,이대호,2025-07-17
+UMC,MCU,28nm,NAND,임베디드 제어 개선 #46,대기중,김현수,2025-08-08
+Samsung,CPU,5nm,NAND,CPU 성능 분석,대기중,박지성,2025-05-23
+Intel,CPU,5nm,DRAM,코어 개발 개선,대기중,박지성,2025-08-02
+Samsung,Memory,14nm,NAND,메모리 테스트 평가,완료,양의지,2025-07-07
+GlobalFoundries,DSP,5nm,NAND,신호처리 검증,검토중,이대호,2025-05-19
+SK Hynix,SoC,4nm,DRAM,복합 칩 테스트 #47,검토중,박지성,2025-06-08
+TSMC,GPU,14nm,NAND,렌더링 개선 테스트,완료,정수빈,2025-07-08
+UMC,CPU,10nm,DRAM,연산 처리 평가,진행중,최민수,2025-05-18
+Samsung,GPU,20nm,DRAM,그래픽 처리 테스트,진행중,박병호,2025-06-25
+Micron,SoC,10nm,NAND,통합 회로 개선,검토중,박병호,2025-05-17
+Micron,DSP,5nm,DRAM,데이터 처리 개선 #48,검토중,김철수,2025-07-28
+GlobalFoundries,MCU,10nm,DRAM,임베디드 제어 평가,검토중,최민수,2025-07-11
+GlobalFoundries,SoC,5nm,NAND,SoC 설계 테스트,진행중,최민수,2025-06-03
+Samsung,MCU,4nm,NAND,마이크로컨트롤러 검증,진행중,윤석민,2025-06-16
+UMC,Memory,28nm,NAND,램 설계 벤치마크,대기중,최민수,2025-07-14
+TSMC,DSP,7nm,DRAM,신호처리 검증 #49,보류,김하성,2025-06-03
+SK Hynix,SoC,4nm,NAND,복합 칩 구현,대기중,박병호,2025-08-10
+Samsung,Memory,7nm,DRAM,램 설계 시뮬레이션,대기중,장원삼,2025-06-24
+SK Hynix,FPGA,28nm,NAND,논리회로 개선,검토중,나성범,2025-08-12
+Samsung,FPGA,20nm,DRAM,FPGA 최적화 개선,진행중,김철수,2025-08-01
+UMC,CPU,16nm,DRAM,연산 처리 구현 #50,대기중,최민수,2025-06-14
+Intel,MCU,14nm,NAND,제어 유닛 개선,대기중,이영희,2025-07-15
+Intel,SoC,3nm,DRAM,통합 회로 검토,완료,김현수,2025-06-17
+GlobalFoundries,MCU,20nm,NAND,제어 유닛 벤치마크,보류,이영희,2025-07-06
+GlobalFoundries,GPU,16nm,DRAM,GPU 성능 벤치마크,검토중,김철수,2025-08-03
+TSMC,CPU,7nm,NAND,프로세서 최적화 벤치마크 #51,검토중,김현수,2025-05-18
+UMC,FPGA,7nm,NAND,프로그래머블 로직 테스트,완료,오지환,2025-08-06
+Intel,SoC,4nm,DRAM,복합 칩 개발,완료,오지환,2025-07-05
+Micron,Memory,7nm,NAND,메모리 확장 테스트,검토중,윤석민,2025-07-19
+Intel,Memory,4nm,NAND,램 설계 평가,보류,김철수,2025-07-24
+SK Hynix,Memory,7nm,DRAM,저장소 개선 검토 #52,보류,장원삼,2025-06-13
+TSMC,FPGA,7nm,DRAM,하드웨어 가속 테스트,진행중,윤석민,2025-06-12
+Micron,GPU,7nm,DRAM,GPU 성능 검증,완료,이대호,2025-06-29
+UMC,GPU,28nm,DRAM,GPU 아키텍처 시뮬레이션,검토중,김하성,2025-07-09
+TSMC,Memory,3nm,NAND,메모리 확장 개발,대기중,김하성,2025-06-07
+UMC,FPGA,14nm,DRAM,FPGA 구현 테스트 #53,대기중,강민호,2025-06-16
+UMC,SoC,16nm,DRAM,통합 회로 설계,완료,홍길동,2025-06-15
+GlobalFoundries,MCU,4nm,DRAM,임베디드 제어 벤치마크,보류,이정후,2025-05-22
+Intel,FPGA,14nm,NAND,FPGA 최적화 시뮬레이션,진행중,윤석민,2025-05-30
+GlobalFoundries,MCU,3nm,NAND,저전력 MCU 설계,보류,박지성,2025-06-05
+Samsung,FPGA,7nm,NAND,논리회로 개발 #54,보류,장원삼,2025-07-01
+UMC,FPGA,10nm,DRAM,논리회로 개발,완료,오지환,2025-06-11
+SK Hynix,DSP,16nm,DRAM,데이터 처리 평가,검토중,이대호,2025-06-25
+GlobalFoundries,SoC,20nm,DRAM,복합 칩 개선,완료,이영희,2025-05-19
+Samsung,MCU,28nm,NAND,제어 유닛 검증,완료,김현수,2025-05-20
+UMC,GPU,3nm,DRAM,GPU 성능 개선 #55,완료,장원삼,2025-06-23
+GlobalFoundries,SoC,14nm,DRAM,통합 회로 구현,진행중,최민수,2025-06-09
+TSMC,GPU,4nm,NAND,그래픽 처리 구현,진행중,김철수,2025-06-02
+TSMC,GPU,14nm,DRAM,그래픽 처리 시뮬레이션,진행중,나성범,2025-06-06
+TSMC,GPU,4nm,DRAM,GPU 성능 벤치마크,대기중,김하성,2025-06-03
+TSMC,Memory,4nm,DRAM,메모리 확장 검토 #56,보류,정수빈,2025-06-30
+SK Hynix,Memory,20nm,NAND,램 설계 테스트,검토중,김철수,2025-06-26
+Intel,SoC,3nm,DRAM,복합 칩 시뮬레이션,진행중,이영희,2025-07-04
+UMC,GPU,4nm,NAND,GPU 아키텍처 개발,보류,박지성,2025-07-04
+Intel,MCU,3nm,NAND,제어 유닛 개선,진행중,김철수,2025-07-15
+GlobalFoundries,GPU,16nm,DRAM,그래픽 처리 테스트 #57,완료,윤석민,2025-07-16
+Micron,CPU,10nm,NAND,연산 처리 검토,보류,최민수,2025-07-30
+Samsung,SoC,28nm,NAND,시스템온칩 분석,진행중,박병호,2025-07-27
+GlobalFoundries,Memory,5nm,NAND,메모리 테스트 개선,보류,이대호,2025-05-25
+UMC,FPGA,16nm,DRAM,FPGA 구현 시뮬레이션,진행중,오지환,2025-08-01
+Intel,Memory,10nm,DRAM,메모리 테스트 시뮬레이션 #58,대기중,김하성,2025-06-14
+UMC,GPU,14nm,DRAM,GPU 아키텍처 검증,검토중,이영희,2025-06-24
+Intel,DSP,10nm,DRAM,데이터 처리 평가,완료,오지환,2025-08-07
+TSMC,SoC,3nm,NAND,SoC 설계 검토,대기중,박지성,2025-06-05
+Samsung,GPU,7nm,DRAM,렌더링 개선 개발,검토중,홍길동,2025-08-06
+Samsung,Memory,20nm,NAND,메모리 테스트 테스트 #59,검토중,이정후,2025-07-22
+GlobalFoundries,GPU,20nm,DRAM,비주얼 엔진 설계,검토중,박지성,2025-08-10
+TSMC,MCU,28nm,DRAM,제어 유닛 개발,보류,양의지,2025-05-16
+Intel,SoC,16nm,DRAM,임베디드 시스템 개발,보류,홍길동,2025-06-29
+Samsung,CPU,14nm,NAND,프로세서 최적화 시뮬레이션,검토중,이정후,2025-05-17
+UMC,MCU,7nm,DRAM,임베디드 제어 평가 #60,대기중,김현수,2025-07-09
+Samsung,CPU,3nm,DRAM,CPU 성능 벤치마크,검토중,이영희,2025-08-03
+TSMC,MCU,10nm,DRAM,MCU 설계 개발,보류,장원삼,2025-07-28
+UMC,FPGA,20nm,DRAM,하드웨어 가속 테스트,진행중,나성범,2025-06-22
+GlobalFoundries,SoC,20nm,DRAM,통합 회로 벤치마크,진행중,양의지,2025-08-11
+Intel,FPGA,7nm,NAND,프로그래머블 로직 검토 #61,진행중,김현수,2025-06-03
+TSMC,MCU,5nm,DRAM,제어 유닛 개선,완료,오지환,2025-07-24
+UMC,GPU,3nm,DRAM,그래픽 처리 분석,완료,박지성,2025-05-19
+GlobalFoundries,SoC,4nm,DRAM,복합 칩 개발,검토중,김하성,2025-05-27
+Samsung,CPU,10nm,NAND,CPU 설계 벤치마크,보류,오지환,2025-06-11
+GlobalFoundries,MCU,5nm,DRAM,제어 유닛 검토 #62,검토중,오지환,2025-08-05
+Micron,MCU,7nm,DRAM,제어 유닛 벤치마크,보류,강민호,2025-07-12
+Samsung,SoC,3nm,DRAM,SoC 설계 개선,완료,윤석민,2025-07-24
+UMC,CPU,20nm,DRAM,연산 처리 평가,완료,박지성,2025-06-24
+UMC,SoC,3nm,DRAM,SoC 설계 평가,검토중,김하성,2025-08-03
+Intel,MCU,3nm,NAND,임베디드 제어 설계 #63,진행중,이영희,2025-07-26
+TSMC,FPGA,3nm,DRAM,논리회로 벤치마크,완료,박병호,2025-07-24
+GlobalFoundries,CPU,7nm,NAND,CPU 성능 개선,대기중,홍길동,2025-07-20
+UMC,CPU,10nm,NAND,CPU 성능 검토,검토중,윤석민,2025-05-22
+Intel,Memory,10nm,DRAM,메모리 확장 개선,대기중,박병호,2025-08-04
+Intel,CPU,10nm,NAND,코어 개발 벤치마크 #64,대기중,박지성,2025-05-25
+SK Hynix,CPU,20nm,NAND,CPU 성능 시뮬레이션,보류,박지성,2025-05-31
+Micron,CPU,28nm,DRAM,코어 개발 검증,대기중,강민호,2025-07-24
+Micron,CPU,14nm,NAND,CPU 설계 시뮬레이션,대기중,김철수,2025-07-02
+Micron,GPU,5nm,DRAM,비주얼 엔진 검증,진행중,강민호,2025-07-06
+GlobalFoundries,DSP,14nm,NAND,필터 설계 개발 #65,대기중,홍길동,2025-06-16
+UMC,GPU,3nm,NAND,GPU 아키텍처 평가,대기중,윤석민,2025-07-22
+Samsung,MCU,28nm,NAND,제어 유닛 검토,완료,윤석민,2025-06-19
+GlobalFoundries,CPU,28nm,NAND,코어 개발 평가,완료,박병호,2025-08-02
+Micron,MCU,16nm,DRAM,저전력 MCU 개선,대기중,양의지,2025-06-01
+Samsung,MCU,4nm,NAND,저전력 MCU 평가 #66,대기중,박지성,2025-08-07
+GlobalFoundries,FPGA,7nm,DRAM,프로그래머블 로직 시뮬레이션,보류,박병호,2025-06-20
+Intel,Memory,7nm,DRAM,저장소 개선 구현,보류,홍길동,2025-06-04
+Intel,FPGA,3nm,DRAM,하드웨어 가속 개발,검토중,윤석민,2025-07-03
+Intel,MCU,28nm,NAND,마이크로컨트롤러 벤치마크,완료,강민호,2025-08-05
+Micron,DSP,4nm,DRAM,데이터 처리 테스트 #67,진행중,박지성,2025-07-03
+SK Hynix,CPU,5nm,DRAM,CPU 성능 테스트,진행중,손아섭,2025-05-23
+Samsung,GPU,10nm,DRAM,GPU 성능 검증,보류,김철수,2025-06-20
+UMC,SoC,20nm,DRAM,임베디드 시스템 평가,보류,최민수,2025-07-29
+UMC,CPU,16nm,NAND,연산 처리 테스트,검토중,정수빈,2025-07-09
+GlobalFoundries,Memory,14nm,DRAM,메모리 최적화 설계 #68,대기중,박병호,2025-06-29
+UMC,SoC,10nm,NAND,통합 회로 검토,대기중,나성범,2025-08-06
+SK Hynix,SoC,7nm,NAND,복합 칩 검증,대기중,김현수,2025-07-09
+Micron,GPU,20nm,NAND,렌더링 개선 평가,완료,정수빈,2025-08-09
+Samsung,FPGA,20nm,DRAM,논리회로 평가,완료,김철수,2025-05-29
+TSMC,MCU,7nm,DRAM,제어 유닛 구현 #69,대기중,장원삼,2025-07-26
+Samsung,CPU,5nm,DRAM,프로세서 최적화 검증,진행중,손아섭,2025-08-09
+Samsung,GPU,4nm,DRAM,렌더링 개선 테스트,완료,최민수,2025-06-14
+Intel,DSP,16nm,NAND,DSP 최적화 구현,완료,양의지,2025-06-08
+UMC,Memory,28nm,NAND,메모리 테스트 분석,완료,정수빈,2025-07-14
+GlobalFoundries,DSP,5nm,NAND,신호처리 테스트 #70,보류,이대호,2025-07-08
+Intel,MCU,14nm,NAND,임베디드 제어 개발,검토중,손아섭,2025-06-16
+UMC,DSP,4nm,DRAM,데이터 처리 평가,대기중,장원삼,2025-06-11
+UMC,Memory,7nm,DRAM,메모리 최적화 시뮬레이션,보류,윤석민,2025-06-17
+Samsung,CPU,7nm,DRAM,CPU 성능 개발,대기중,나성범,2025-06-06
+SK Hynix,GPU,5nm,NAND,그래픽 처리 벤치마크 #71,대기중,최민수,2025-05-17
+UMC,MCU,3nm,DRAM,저전력 MCU 테스트,대기중,이대호,2025-08-09
+SK Hynix,Memory,16nm,DRAM,메모리 최적화 분석,보류,이대호,2025-07-14
+Intel,GPU,10nm,NAND,GPU 아키텍처 검토,대기중,양의지,2025-06-14
+Micron,Memory,4nm,NAND,메모리 테스트 구현,보류,이대호,2025-07-14
+Samsung,SoC,16nm,NAND,임베디드 시스템 개발 #72,검토중,박지성,2025-06-14
+Micron,Memory,3nm,DRAM,메모리 테스트 개발,대기중,정수빈,2025-06-13
+Samsung,GPU,7nm,NAND,렌더링 개선 개선,검토중,오지환,2025-06-17
+GlobalFoundries,Memory,3nm,NAND,램 설계 검토,완료,이영희,2025-05-16
+SK Hynix,SoC,4nm,NAND,시스템온칩 벤치마크,대기중,홍길동,2025-06-08
+GlobalFoundries,DSP,28nm,NAND,신호처리 분석 #73,보류,최민수,2025-05-17
+UMC,CPU,16nm,DRAM,연산 처리 설계,보류,김하성,2025-08-03
+Micron,SoC,5nm,NAND,임베디드 시스템 구현,보류,김하성,2025-05-18
+Samsung,DSP,28nm,DRAM,DSP 최적화 분석,대기중,나성범,2025-06-15
+Intel,DSP,28nm,NAND,데이터 처리 시뮬레이션,검토중,김철수,2025-05-19
+SK Hynix,MCU,10nm,NAND,MCU 설계 벤치마크 #74,대기중,김현수,2025-06-03
+UMC,SoC,4nm,DRAM,임베디드 시스템 평가,완료,최민수,2025-07-21
+TSMC,DSP,3nm,NAND,데이터 처리 설계,진행중,박지성,2025-06-17
+UMC,CPU,7nm,NAND,CPU 성능 벤치마크,진행중,윤석민,2025-07-04
+Intel,GPU,20nm,DRAM,그래픽 처리 검토,진행중,홍길동,2025-06-17
+Intel,Memory,3nm,NAND,램 설계 시뮬레이션 #75,완료,김하성,2025-05-18
+UMC,Memory,16nm,NAND,저장소 개선 개선,검토중,최민수,2025-06-02
+Samsung,FPGA,16nm,NAND,FPGA 최적화 분석,완료,손아섭,2025-07-16
+SK Hynix,Memory,20nm,DRAM,램 설계 개선,완료,양의지,2025-07-27
+SK Hynix,GPU,5nm,NAND,GPU 아키텍처 테스트,대기중,박병호,2025-05-30
+Intel,DSP,7nm,NAND,알고리즘 가속 테스트 #76,보류,김현수,2025-06-18
+UMC,MCU,16nm,DRAM,마이크로컨트롤러 검증,완료,장원삼,2025-07-08
+TSMC,Memory,7nm,DRAM,저장소 개선 테스트,검토중,홍길동,2025-06-17
+SK Hynix,FPGA,4nm,DRAM,FPGA 최적화 테스트,진행중,윤석민,2025-05-26
+Intel,Memory,28nm,DRAM,메모리 최적화 검증,진행중,이정후,2025-07-07
+Micron,MCU,7nm,NAND,MCU 설계 분석 #77,보류,나성범,2025-08-07
+Intel,MCU,7nm,DRAM,제어 유닛 시뮬레이션,완료,박지성,2025-08-12
+UMC,FPGA,14nm,NAND,프로그래머블 로직 개발,완료,강민호,2025-07-06
+Samsung,CPU,4nm,NAND,프로세서 최적화 분석,진행중,박지성,2025-07-06
+UMC,GPU,7nm,NAND,렌더링 개선 구현,보류,양의지,2025-06-17
+TSMC,CPU,5nm,DRAM,연산 처리 검증 #78,대기중,윤석민,2025-05-17
+TSMC,CPU,7nm,DRAM,코어 개발 평가,대기중,김철수,2025-06-02
+TSMC,GPU,16nm,DRAM,GPU 아키텍처 시뮬레이션,보류,최민수,2025-07-27
+Samsung,MCU,5nm,NAND,저전력 MCU 벤치마크,완료,정수빈,2025-07-23
+UMC,GPU,7nm,DRAM,GPU 성능 설계,검토중,김하성,2025-06-11
+SK Hynix,MCU,7nm,DRAM,임베디드 제어 구현 #79,완료,정수빈,2025-05-24
+SK Hynix,MCU,5nm,DRAM,임베디드 제어 검증,진행중,이대호,2025-07-09
+Micron,MCU,28nm,NAND,임베디드 제어 개선,진행중,나성범,2025-07-27
+TSMC,DSP,28nm,DRAM,알고리즘 가속 시뮬레이션,진행중,정수빈,2025-07-25
+GlobalFoundries,DSP,7nm,DRAM,DSP 최적화 개발,완료,장원삼,2025-07-30
+UMC,CPU,10nm,DRAM,프로세서 최적화 설계 #80,대기중,김하성,2025-06-13
+Micron,CPU,28nm,NAND,프로세서 최적화 검증,검토중,박지성,2025-06-23
+TSMC,GPU,3nm,NAND,그래픽 처리 구현,대기중,이영희,2025-06-01
+UMC,SoC,16nm,NAND,복합 칩 개선,대기중,오지환,2025-07-07
+Intel,CPU,20nm,DRAM,CPU 성능 개선,대기중,박병호,2025-06-26
+Micron,MCU,4nm,NAND,MCU 설계 테스트 #81,검토중,이정후,2025-07-17
+GlobalFoundries,MCU,5nm,DRAM,마이크로컨트롤러 시뮬레이션,완료,박지성,2025-07-18
+Samsung,DSP,16nm,DRAM,신호처리 개선,대기중,장원삼,2025-05-21
+UMC,CPU,20nm,DRAM,CPU 설계 테스트,대기중,강민호,2025-07-08
+GlobalFoundries,DSP,10nm,NAND,알고리즘 가속 구현,완료,손아섭,2025-07-01
+Samsung,FPGA,14nm,NAND,FPGA 최적화 테스트 #82,대기중,박지성,2025-08-02
+UMC,CPU,3nm,DRAM,CPU 설계 평가,진행중,이영희,2025-06-24
+Micron,Memory,16nm,DRAM,램 설계 시뮬레이션,검토중,손아섭,2025-06-28
+Micron,CPU,7nm,DRAM,프로세서 최적화 분석,진행중,윤석민,2025-05-29
+Samsung,DSP,20nm,DRAM,신호처리 검증,검토중,강민호,2025-06-02
+SK Hynix,GPU,3nm,NAND,비주얼 엔진 개발 #83,진행중,양의지,2025-05-31
+TSMC,MCU,28nm,DRAM,제어 유닛 시뮬레이션,검토중,이대호,2025-06-23
+Micron,MCU,28nm,DRAM,MCU 설계 시뮬레이션,보류,강민호,2025-07-01
+SK Hynix,MCU,10nm,DRAM,임베디드 제어 개선,대기중,박병호,2025-06-05
+SK Hynix,GPU,10nm,DRAM,렌더링 개선 검증,완료,이정후,2025-06-13
+GlobalFoundries,FPGA,16nm,DRAM,논리회로 평가 #84,검토중,이정후,2025-05-15
+Micron,GPU,16nm,DRAM,비주얼 엔진 검토,검토중,김철수,2025-06-05
+GlobalFoundries,SoC,5nm,NAND,시스템온칩 검토,보류,나성범,2025-06-26
+Intel,CPU,5nm,DRAM,CPU 설계 분석,검토중,장원삼,2025-07-31
+TSMC,MCU,20nm,NAND,임베디드 제어 개발,완료,김현수,2025-06-06
+GlobalFoundries,SoC,16nm,NAND,복합 칩 검증 #85,진행중,정수빈,2025-07-02
+Samsung,DSP,16nm,NAND,신호처리 시뮬레이션,진행중,나성범,2025-05-20
+GlobalFoundries,MCU,16nm,DRAM,MCU 설계 테스트,대기중,박병호,2025-06-23
+Intel,SoC,16nm,NAND,SoC 설계 검증,대기중,장원삼,2025-05-19
+Intel,GPU,28nm,NAND,그래픽 처리 구현,진행중,정수빈,2025-07-21
+SK Hynix,GPU,14nm,NAND,렌더링 개선 벤치마크 #86,대기중,정수빈,2025-06-03
+SK Hynix,GPU,14nm,NAND,비주얼 엔진 평가,완료,양의지,2025-06-04
+Intel,CPU,16nm,NAND,CPU 설계 벤치마크,완료,김하성,2025-06-03
+TSMC,MCU,5nm,NAND,임베디드 제어 테스트,진행중,홍길동,2025-07-20
+TSMC,CPU,10nm,DRAM,코어 개발 벤치마크,완료,정수빈,2025-06-08
+TSMC,CPU,4nm,NAND,CPU 성능 평가 #87,보류,이영희,2025-07-10
+UMC,GPU,20nm,NAND,비주얼 엔진 테스트,보류,최민수,2025-07-30
+TSMC,GPU,4nm,NAND,GPU 아키텍처 검증,완료,최민수,2025-08-05
+TSMC,GPU,3nm,NAND,GPU 성능 벤치마크,완료,박지성,2025-06-12
+Intel,FPGA,28nm,NAND,FPGA 구현 평가,완료,윤석민,2025-07-30
+TSMC,FPGA,4nm,DRAM,FPGA 최적화 검증 #88,완료,강민호,2025-06-08
+Intel,Memory,28nm,NAND,메모리 테스트 검증,검토중,손아섭,2025-07-30
+GlobalFoundries,SoC,14nm,NAND,임베디드 시스템 구현,대기중,최민수,2025-07-20
+SK Hynix,DSP,20nm,NAND,필터 설계 개발,완료,김현수,2025-05-28
+Samsung,DSP,3nm,DRAM,DSP 최적화 검증,대기중,양의지,2025-08-11
+UMC,CPU,7nm,NAND,CPU 성능 개선 #89,대기중,강민호,2025-08-10
+Intel,GPU,14nm,DRAM,비주얼 엔진 분석,진행중,이영희,2025-06-11
+SK Hynix,SoC,14nm,NAND,복합 칩 분석,진행중,강민호,2025-06-15
+Micron,MCU,4nm,DRAM,마이크로컨트롤러 벤치마크,대기중,홍길동,2025-06-09
+GlobalFoundries,SoC,16nm,DRAM,임베디드 시스템 시뮬레이션,대기중,최민수,2025-06-10
+GlobalFoundries,Memory,3nm,NAND,램 설계 검토 #90,진행중,장원삼,2025-07-13
+Micron,FPGA,5nm,NAND,논리회로 테스트,검토중,홍길동,2025-07-26
+UMC,GPU,28nm,DRAM,비주얼 엔진 설계,보류,김철수,2025-07-19
+Samsung,FPGA,16nm,DRAM,프로그래머블 로직 개선,대기중,정수빈,2025-07-24
+GlobalFoundries,FPGA,3nm,NAND,FPGA 최적화 개발,보류,박병호,2025-06-17
+UMC,FPGA,10nm,DRAM,FPGA 최적화 테스트 #91,대기중,김현수,2025-06-14
+UMC,GPU,3nm,DRAM,그래픽 처리 검증,완료,나성범,2025-07-20
+Micron,SoC,16nm,DRAM,SoC 설계 평가,보류,오지환,2025-07-20
+GlobalFoundries,Memory,10nm,DRAM,저장소 개선 검증,검토중,이영희,2025-06-21
+Micron,DSP,7nm,NAND,DSP 최적화 테스트,검토중,이정후,2025-06-26
+Intel,DSP,28nm,DRAM,신호처리 검토 #92,대기중,박지성,2025-07-13
+TSMC,Memory,7nm,DRAM,저장소 개선 테스트,진행중,김하성,2025-06-25
+Micron,CPU,20nm,DRAM,CPU 설계 테스트,진행중,홍길동,2025-05-26
+Micron,Memory,14nm,DRAM,메모리 확장 검증,완료,박병호,2025-07-05
+GlobalFoundries,GPU,16nm,DRAM,GPU 아키텍처 검토,완료,손아섭,2025-05-25
+UMC,CPU,28nm,DRAM,CPU 설계 검토 #93,대기중,장원삼,2025-07-03
+Samsung,GPU,28nm,DRAM,비주얼 엔진 시뮬레이션,검토중,홍길동,2025-05-29
+GlobalFoundries,FPGA,20nm,DRAM,FPGA 구현 분석,진행중,김하성,2025-08-11
+SK Hynix,SoC,4nm,NAND,시스템온칩 개발,완료,김현수,2025-05-27
+Intel,DSP,10nm,DRAM,신호처리 개발,대기중,장원삼,2025-06-28
+GlobalFoundries,DSP,20nm,DRAM,데이터 처리 평가 #94,완료,정수빈,2025-08-09
+SK Hynix,DSP,28nm,NAND,데이터 처리 검증,대기중,양의지,2025-05-21
+Samsung,SoC,3nm,DRAM,통합 회로 테스트,보류,김현수,2025-07-31
+TSMC,SoC,20nm,NAND,통합 회로 평가,대기중,오지환,2025-06-20
+Intel,CPU,7nm,DRAM,코어 개발 평가,보류,박지성,2025-07-30
+UMC,MCU,7nm,NAND,저전력 MCU 벤치마크 #95,검토중,장원삼,2025-06-06
+Micron,MCU,10nm,DRAM,저전력 MCU 검토,보류,이정후,2025-07-12
+TSMC,MCU,16nm,NAND,마이크로컨트롤러 평가,완료,김철수,2025-06-07
+SK Hynix,CPU,28nm,NAND,CPU 성능 벤치마크,완료,양의지,2025-07-04
+Samsung,CPU,28nm,NAND,CPU 설계 분석,검토중,이정후,2025-05-30
+Intel,SoC,7nm,NAND,임베디드 시스템 평가 #96,진행중,김하성,2025-06-07
+GlobalFoundries,Memory,28nm,DRAM,램 설계 벤치마크,진행중,양의지,2025-05-27
+SK Hynix,FPGA,7nm,NAND,FPGA 최적화 설계,대기중,이정후,2025-07-05
+UMC,MCU,10nm,DRAM,임베디드 제어 개발,검토중,윤석민,2025-06-05
+Intel,SoC,16nm,NAND,임베디드 시스템 설계,보류,홍길동,2025-07-10
+Samsung,CPU,14nm,NAND,CPU 성능 구현 #97,대기중,양의지,2025-07-16
+GlobalFoundries,GPU,5nm,DRAM,GPU 아키텍처 구현,완료,양의지,2025-06-29
+UMC,SoC,7nm,DRAM,임베디드 시스템 개선,검토중,윤석민,2025-07-09
+TSMC,SoC,14nm,NAND,통합 회로 구현,완료,홍길동,2025-06-11
+UMC,CPU,10nm,NAND,CPU 설계 평가,보류,윤석민,2025-06-22
+SK Hynix,MCU,28nm,NAND,MCU 설계 검증 #98,검토중,김철수,2025-07-11
+Samsung,SoC,10nm,NAND,시스템온칩 개발,대기중,나성범,2025-07-21
+Intel,GPU,4nm,DRAM,그래픽 처리 벤치마크,완료,홍길동,2025-07-02
+Samsung,CPU,4nm,DRAM,코어 개발 구현,진행중,손아섭,2025-07-31
+Samsung,GPU,28nm,DRAM,그래픽 처리 검토,대기중,양의지,2025-06-07
+TSMC,GPU,7nm,DRAM,GPU 성능 벤치마크 #99,진행중,이대호,2025-08-04
+Samsung,DSP,16nm,DRAM,DSP 최적화 검토,보류,박지성,2025-05-17
+SK Hynix,MCU,10nm,NAND,저전력 MCU 설계,검토중,장원삼,2025-05-19
+GlobalFoundries,Memory,7nm,NAND,저장소 개선 개발,보류,김철수,2025-07-02
+Intel,SoC,16nm,NAND,임베디드 시스템 테스트,완료,정수빈,2025-07-18
+SK Hynix,MCU,7nm,DRAM,MCU 설계 테스트 #100,진행중,나성범,2025-06-14
+Intel,Memory,10nm,DRAM,램 설계 분석,검토중,이정후,2025-06-28
+Intel,GPU,14nm,DRAM,렌더링 개선 설계,완료,김하성,2025-06-13
+GlobalFoundries,SoC,3nm,DRAM,통합 회로 벤치마크,진행중,오지환,2025-05-24
+TSMC,MCU,3nm,NAND,임베디드 제어 분석,진행중,나성범,2025-05-21
+Intel,MCU,3nm,NAND,임베디드 제어 검토 #101,보류,김하성,2025-06-04
+Samsung,GPU,20nm,DRAM,GPU 성능 개선,완료,나성범,2025-08-06
+SK Hynix,MCU,28nm,NAND,저전력 MCU 검토,보류,손아섭,2025-06-07
+GlobalFoundries,FPGA,16nm,NAND,하드웨어 가속 평가,완료,이영희,2025-07-08
+Samsung,GPU,20nm,NAND,GPU 성능 벤치마크,진행중,최민수,2025-05-26
+GlobalFoundries,FPGA,16nm,DRAM,논리회로 평가 #102,완료,장원삼,2025-06-05
+SK Hynix,DSP,28nm,DRAM,알고리즘 가속 검토,보류,이영희,2025-07-29
+UMC,Memory,16nm,DRAM,메모리 최적화 벤치마크,검토중,손아섭,2025-06-05
+UMC,MCU,28nm,NAND,저전력 MCU 설계,검토중,김하성,2025-05-20
+Intel,DSP,10nm,DRAM,데이터 처리 개선,보류,오지환,2025-05-27
+Samsung,MCU,20nm,DRAM,임베디드 제어 벤치마크 #103,진행중,양의지,2025-06-15
+Samsung,FPGA,7nm,DRAM,논리회로 구현,대기중,윤석민,2025-08-10
+TSMC,FPGA,20nm,DRAM,FPGA 구현 개발,보류,손아섭,2025-06-01
+UMC,GPU,4nm,NAND,GPU 성능 평가,보류,강민호,2025-07-13
+GlobalFoundries,GPU,10nm,NAND,GPU 아키텍처 개발,검토중,최민수,2025-06-16
+GlobalFoundries,Memory,16nm,DRAM,저장소 개선 검토 #104,완료,박지성,2025-06-06
+GlobalFoundries,MCU,16nm,NAND,마이크로컨트롤러 시뮬레이션,완료,김하성,2025-06-01
+UMC,DSP,28nm,NAND,DSP 최적화 벤치마크,보류,장원삼,2025-05-31
+TSMC,CPU,3nm,NAND,연산 처리 평가,완료,홍길동,2025-07-20
+Samsung,GPU,4nm,NAND,GPU 아키텍처 테스트,완료,윤석민,2025-05-18
+Samsung,DSP,3nm,NAND,데이터 처리 시뮬레이션 #105,검토중,이정후,2025-07-08
+Samsung,MCU,3nm,DRAM,제어 유닛 개선,진행중,이정후,2025-06-22
+Intel,CPU,16nm,NAND,CPU 성능 구현,검토중,양의지,2025-08-11
+TSMC,FPGA,20nm,DRAM,하드웨어 가속 검토,대기중,손아섭,2025-07-12
+Samsung,CPU,16nm,DRAM,CPU 설계 시뮬레이션,대기중,김하성,2025-06-02
+Intel,SoC,28nm,NAND,임베디드 시스템 평가 #106,완료,정수빈,2025-06-19
+SK Hynix,Memory,7nm,NAND,램 설계 구현,완료,김하성,2025-06-01
+GlobalFoundries,GPU,10nm,NAND,그래픽 처리 벤치마크,완료,오지환,2025-07-04
+TSMC,GPU,3nm,DRAM,비주얼 엔진 검토,완료,김하성,2025-08-06
+TSMC,GPU,7nm,NAND,GPU 성능 테스트,대기중,오지환,2025-07-16
+Samsung,Memory,28nm,DRAM,램 설계 검토 #107,대기중,김철수,2025-08-05
+TSMC,MCU,28nm,NAND,MCU 설계 설계,보류,박병호,2025-07-15
+Intel,FPGA,4nm,DRAM,FPGA 최적화 구현,검토중,나성범,2025-07-23
+UMC,FPGA,4nm,NAND,프로그래머블 로직 개선,검토중,나성범,2025-07-02
+Samsung,CPU,4nm,NAND,CPU 성능 시뮬레이션,완료,강민호,2025-07-18
+Samsung,FPGA,4nm,NAND,FPGA 최적화 시뮬레이션 #108,완료,김철수,2025-08-04
+Samsung,SoC,4nm,NAND,통합 회로 분석,검토중,박병호,2025-07-27
+GlobalFoundries,GPU,10nm,NAND,렌더링 개선 시뮬레이션,완료,손아섭,2025-07-30
+SK Hynix,SoC,16nm,NAND,임베디드 시스템 검증,대기중,나성범,2025-07-02
+GlobalFoundries,DSP,16nm,NAND,DSP 최적화 개발,보류,장원삼,2025-06-27
+Micron,DSP,3nm,NAND,신호처리 평가 #109,대기중,이대호,2025-06-27
+UMC,GPU,7nm,DRAM,그래픽 처리 시뮬레이션,검토중,박병호,2025-05-23
+Samsung,CPU,7nm,NAND,프로세서 최적화 벤치마크,진행중,강민호,2025-07-20
+TSMC,FPGA,14nm,DRAM,하드웨어 가속 검증,대기중,양의지,2025-05-29
+Samsung,CPU,14nm,NAND,CPU 성능 설계,진행중,나성범,2025-06-23
+UMC,SoC,4nm,DRAM,시스템온칩 개발 #110,완료,김현수,2025-08-07
+Micron,Memory,4nm,NAND,저장소 개선 개발,대기중,이영희,2025-07-21
+Intel,SoC,4nm,DRAM,SoC 설계 평가,보류,이영희,2025-05-20
+TSMC,FPGA,14nm,DRAM,프로그래머블 로직 테스트,보류,홍길동,2025-07-19
+Intel,FPGA,3nm,DRAM,논리회로 설계,대기중,최민수,2025-06-14
+Samsung,GPU,28nm,NAND,GPU 아키텍처 검증 #111,진행중,장원삼,2025-05-30
+SK Hynix,GPU,20nm,NAND,렌더링 개선 개선,보류,이영희,2025-06-13
+TSMC,GPU,20nm,NAND,렌더링 개선 설계,완료,최민수,2025-08-04
+SK Hynix,DSP,20nm,DRAM,알고리즘 가속 벤치마크,완료,나성범,2025-06-29
+Micron,DSP,7nm,NAND,필터 설계 벤치마크,진행중,이대호,2025-07-30
+Intel,Memory,20nm,DRAM,메모리 확장 개선 #112,완료,이정후,2025-08-03
+SK Hynix,DSP,10nm,NAND,데이터 처리 검증,검토중,나성범,2025-06-22
+Samsung,MCU,7nm,DRAM,마이크로컨트롤러 개선,완료,나성범,2025-06-29
+TSMC,CPU,28nm,NAND,코어 개발 개발,검토중,이정후,2025-05-17
+TSMC,SoC,10nm,DRAM,시스템온칩 개선,완료,정수빈,2025-06-10
+SK Hynix,GPU,28nm,NAND,그래픽 처리 분석 #113,진행중,이정후,2025-06-24
+UMC,DSP,14nm,NAND,필터 설계 벤치마크,진행중,김현수,2025-06-18
+Intel,SoC,5nm,DRAM,SoC 설계 검증,보류,김하성,2025-07-21
+TSMC,SoC,10nm,DRAM,SoC 설계 설계,진행중,이대호,2025-05-23
+Micron,GPU,4nm,NAND,그래픽 처리 구현,완료,김하성,2025-08-09
+UMC,Memory,20nm,NAND,램 설계 설계 #114,대기중,김철수,2025-06-03
+GlobalFoundries,SoC,7nm,NAND,임베디드 시스템 검토,보류,김하성,2025-07-16
+Micron,DSP,16nm,NAND,알고리즘 가속 검토,완료,박병호,2025-08-08
+GlobalFoundries,CPU,5nm,NAND,코어 개발 구현,보류,장원삼,2025-06-01
+Intel,MCU,16nm,DRAM,제어 유닛 구현,보류,나성범,2025-06-01
+Intel,FPGA,14nm,DRAM,프로그래머블 로직 검증 #115,검토중,이영희,2025-06-13
+Samsung,CPU,20nm,NAND,CPU 성능 설계,완료,홍길동,2025-08-06
+TSMC,SoC,3nm,NAND,임베디드 시스템 테스트,대기중,손아섭,2025-07-30
+Micron,FPGA,14nm,DRAM,FPGA 최적화 벤치마크,검토중,최민수,2025-07-07
+GlobalFoundries,MCU,7nm,DRAM,제어 유닛 평가,검토중,양의지,2025-06-22
+UMC,CPU,5nm,NAND,CPU 성능 벤치마크 #116,진행중,정수빈,2025-07-09
+UMC,SoC,3nm,NAND,통합 회로 테스트,대기중,최민수,2025-06-15
+UMC,GPU,14nm,NAND,GPU 아키텍처 시뮬레이션,검토중,이영희,2025-06-26
+TSMC,CPU,28nm,DRAM,코어 개발 시뮬레이션,검토중,김하성,2025-07-18
+UMC,Memory,14nm,NAND,메모리 테스트 개선,대기중,이대호,2025-05-18
+UMC,GPU,7nm,DRAM,그래픽 처리 구현 #117,진행중,박병호,2025-05-27
+GlobalFoundries,Memory,14nm,NAND,메모리 테스트 구현,검토중,박병호,2025-07-09
+UMC,MCU,5nm,DRAM,마이크로컨트롤러 검토,검토중,오지환,2025-06-04
+TSMC,Memory,16nm,NAND,램 설계 테스트,보류,장원삼,2025-06-24
+UMC,Memory,20nm,NAND,저장소 개선 검토,진행중,최민수,2025-05-17
+Micron,FPGA,20nm,DRAM,하드웨어 가속 개선 #118,검토중,박병호,2025-07-18
+Micron,Memory,4nm,NAND,메모리 확장 테스트,검토중,홍길동,2025-08-05
+Micron,MCU,10nm,NAND,마이크로컨트롤러 벤치마크,보류,박병호,2025-07-26
+SK Hynix,GPU,10nm,DRAM,GPU 성능 검증,대기중,김철수,2025-08-05
+GlobalFoundries,MCU,4nm,DRAM,MCU 설계 개발,보류,나성범,2025-08-01
+UMC,CPU,20nm,NAND,프로세서 최적화 설계 #119,검토중,양의지,2025-07-16
+GlobalFoundries,SoC,14nm,NAND,시스템온칩 설계,보류,오지환,2025-06-27
+TSMC,Memory,14nm,NAND,메모리 확장 테스트,보류,강민호,2025-06-08
+GlobalFoundries,SoC,7nm,DRAM,통합 회로 개발,대기중,최민수,2025-05-31
+Intel,CPU,20nm,DRAM,CPU 설계 평가,보류,장원삼,2025-08-02
+UMC,Memory,28nm,DRAM,메모리 테스트 분석 #120,완료,오지환,2025-07-03
+UMC,CPU,3nm,NAND,CPU 성능 벤치마크,보류,김하성,2025-07-18
+UMC,Memory,16nm,DRAM,메모리 확장 분석,검토중,김철수,2025-05-18
+GlobalFoundries,DSP,7nm,DRAM,신호처리 검증,완료,김철수,2025-08-06
+Samsung,Memory,28nm,DRAM,메모리 확장 개발,대기중,이대호,2025-06-04
+Samsung,MCU,4nm,NAND,제어 유닛 검증 #121,검토중,강민호,2025-05-15
+UMC,DSP,20nm,NAND,DSP 최적화 검증,보류,김하성,2025-08-11
+Micron,Memory,16nm,NAND,메모리 최적화 시뮬레이션,대기중,이정후,2025-07-02
+GlobalFoundries,CPU,4nm,NAND,CPU 설계 테스트,완료,김철수,2025-06-07
+TSMC,CPU,10nm,NAND,코어 개발 분석,대기중,양의지,2025-06-20
+Micron,SoC,3nm,NAND,통합 회로 개선 #122,완료,양의지,2025-07-25
+Samsung,GPU,7nm,DRAM,GPU 아키텍처 평가,진행중,정수빈,2025-05-25
+Samsung,Memory,5nm,NAND,저장소 개선 구현,대기중,정수빈,2025-06-11
+SK Hynix,Memory,7nm,DRAM,램 설계 설계,검토중,강민호,2025-06-26
+TSMC,MCU,3nm,NAND,제어 유닛 분석,보류,이대호,2025-08-08
+Intel,GPU,3nm,NAND,GPU 아키텍처 검토 #123,검토중,이영희,2025-08-04
+Samsung,MCU,28nm,DRAM,제어 유닛 테스트,보류,김하성,2025-07-25
+SK Hynix,GPU,3nm,DRAM,그래픽 처리 개발,보류,장원삼,2025-06-20
+UMC,DSP,14nm,NAND,데이터 처리 분석,진행중,박지성,2025-07-15
+Micron,SoC,10nm,NAND,시스템온칩 개선,검토중,오지환,2025-07-17
+Intel,CPU,16nm,DRAM,프로세서 최적화 설계 #124,검토중,이대호,2025-08-04
+TSMC,FPGA,5nm,DRAM,FPGA 최적화 검증,대기중,이영희,2025-07-28
+TSMC,CPU,28nm,DRAM,CPU 성능 검증,검토중,윤석민,2025-06-10
+TSMC,SoC,7nm,DRAM,통합 회로 개선,보류,오지환,2025-05-23
+Intel,FPGA,5nm,DRAM,프로그래머블 로직 개선,검토중,이대호,2025-07-07
+Micron,Memory,16nm,DRAM,메모리 최적화 설계 #125,대기중,이영희,2025-07-11
+Intel,FPGA,16nm,NAND,프로그래머블 로직 벤치마크,진행중,박병호,2025-08-06
+SK Hynix,GPU,3nm,NAND,렌더링 개선 시뮬레이션,완료,박병호,2025-06-09
+TSMC,GPU,5nm,DRAM,GPU 성능 개선,검토중,이대호,2025-05-22
+UMC,CPU,3nm,NAND,코어 개발 벤치마크,대기중,박병호,2025-07-11
+Intel,Memory,20nm,DRAM,메모리 확장 검증 #126,보류,김철수,2025-07-29
+Micron,DSP,28nm,DRAM,신호처리 벤치마크,대기중,김하성,2025-07-13
+Micron,CPU,5nm,NAND,CPU 성능 개발,검토중,이대호,2025-06-27
+Micron,SoC,3nm,DRAM,복합 칩 시뮬레이션,대기중,김하성,2025-06-03
+UMC,MCU,10nm,DRAM,마이크로컨트롤러 평가,완료,김현수,2025-05-15
+GlobalFoundries,CPU,20nm,NAND,프로세서 최적화 테스트 #127,검토중,정수빈,2025-05-27
+GlobalFoundries,MCU,5nm,NAND,저전력 MCU 분석,진행중,손아섭,2025-05-20
+Intel,GPU,16nm,DRAM,GPU 아키텍처 평가,보류,장원삼,2025-06-09
+TSMC,FPGA,28nm,DRAM,논리회로 검토,보류,김하성,2025-06-02
+Intel,CPU,3nm,NAND,연산 처리 평가,검토중,이정후,2025-05-22
+Micron,DSP,3nm,DRAM,필터 설계 개발 #128,대기중,김현수,2025-07-08
+GlobalFoundries,Memory,14nm,NAND,메모리 테스트 검증,진행중,정수빈,2025-07-15
+GlobalFoundries,CPU,5nm,NAND,CPU 설계 검토,대기중,나성범,2025-06-26
+TSMC,CPU,20nm,NAND,코어 개발 테스트,보류,양의지,2025-08-09
+UMC,GPU,7nm,NAND,비주얼 엔진 시뮬레이션,진행중,박병호,2025-06-22
+GlobalFoundries,GPU,16nm,DRAM,GPU 아키텍처 검토 #129,완료,강민호,2025-08-02
+TSMC,FPGA,14nm,NAND,FPGA 구현 개발,완료,이정후,2025-07-18
+SK Hynix,FPGA,5nm,NAND,프로그래머블 로직 개선,대기중,이정후,2025-07-26
+UMC,GPU,28nm,DRAM,렌더링 개선 검증,보류,양의지,2025-07-22
+GlobalFoundries,GPU,3nm,NAND,비주얼 엔진 개발,진행중,이대호,2025-06-05
+Micron,GPU,20nm,NAND,비주얼 엔진 설계 #130,진행중,최민수,2025-05-29
+Micron,GPU,4nm,DRAM,비주얼 엔진 분석,대기중,나성범,2025-05-28
+TSMC,DSP,5nm,NAND,DSP 최적화 구현,대기중,윤석민,2025-06-05
+SK Hynix,FPGA,5nm,NAND,프로그래머블 로직 구현,진행중,박병호,2025-06-12
+Samsung,GPU,20nm,DRAM,GPU 아키텍처 테스트,대기중,나성범,2025-06-17
+UMC,GPU,3nm,DRAM,렌더링 개선 시뮬레이션 #131,진행중,이영희,2025-06-21
+SK Hynix,SoC,3nm,DRAM,통합 회로 테스트,대기중,이영희,2025-05-23
+UMC,MCU,20nm,NAND,MCU 설계 시뮬레이션,검토중,박병호,2025-06-17
+GlobalFoundries,FPGA,3nm,NAND,논리회로 벤치마크,보류,강민호,2025-06-11
+Samsung,DSP,5nm,DRAM,알고리즘 가속 개발,대기중,강민호,2025-07-11
+Micron,FPGA,3nm,DRAM,프로그래머블 로직 벤치마크 #132,대기중,최민수,2025-05-21
+Samsung,MCU,20nm,DRAM,제어 유닛 검토,완료,박지성,2025-06-07
+Intel,FPGA,3nm,NAND,논리회로 시뮬레이션,검토중,오지환,2025-07-31
+Samsung,FPGA,28nm,NAND,FPGA 구현 평가,검토중,장원삼,2025-06-23
+SK Hynix,GPU,16nm,NAND,GPU 성능 개발,보류,김하성,2025-06-17
+Micron,GPU,4nm,DRAM,그래픽 처리 시뮬레이션 #133,진행중,장원삼,2025-06-03
+GlobalFoundries,Memory,16nm,DRAM,저장소 개선 설계,대기중,손아섭,2025-06-14
+SK Hynix,FPGA,3nm,DRAM,FPGA 최적화 개선,대기중,강민호,2025-05-28
+TSMC,Memory,16nm,NAND,램 설계 벤치마크,진행중,김철수,2025-06-03
+TSMC,CPU,20nm,DRAM,CPU 성능 테스트,진행중,강민호,2025-07-25
+GlobalFoundries,Memory,3nm,DRAM,메모리 확장 벤치마크 #134,보류,김하성,2025-07-20
+SK Hynix,GPU,14nm,DRAM,GPU 아키텍처 테스트,진행중,최민수,2025-07-08
+TSMC,SoC,3nm,DRAM,통합 회로 구현,진행중,윤석민,2025-07-28
+SK Hynix,FPGA,10nm,NAND,FPGA 구현 설계,진행중,박지성,2025-07-15
+TSMC,GPU,4nm,DRAM,비주얼 엔진 개발,보류,홍길동,2025-05-18
+GlobalFoundries,CPU,5nm,DRAM,CPU 성능 평가 #135,대기중,양의지,2025-06-24
+GlobalFoundries,Memory,5nm,NAND,저장소 개선 평가,검토중,홍길동,2025-05-22
+TSMC,Memory,4nm,DRAM,메모리 테스트 테스트,대기중,윤석민,2025-05-15
+Samsung,GPU,28nm,DRAM,GPU 아키텍처 시뮬레이션,대기중,이정후,2025-06-12
+Samsung,MCU,10nm,DRAM,임베디드 제어 시뮬레이션,진행중,박병호,2025-05-21
+TSMC,DSP,5nm,DRAM,DSP 최적화 개선 #136,진행중,박지성,2025-08-10
+GlobalFoundries,CPU,4nm,DRAM,CPU 설계 구현,보류,윤석민,2025-05-25
+Samsung,CPU,7nm,NAND,연산 처리 검증,진행중,윤석민,2025-07-26
+GlobalFoundries,CPU,16nm,NAND,연산 처리 분석,완료,박지성,2025-07-02
+SK Hynix,MCU,16nm,NAND,저전력 MCU 개발,보류,김철수,2025-07-20
+UMC,CPU,7nm,DRAM,CPU 성능 테스트 #137,완료,오지환,2025-07-24
+SK Hynix,GPU,28nm,DRAM,그래픽 처리 분석,검토중,손아섭,2025-07-12
+UMC,MCU,14nm,DRAM,임베디드 제어 테스트,대기중,양의지,2025-07-07
+SK Hynix,GPU,10nm,NAND,렌더링 개선 테스트,완료,윤석민,2025-07-09
+Samsung,FPGA,10nm,NAND,FPGA 구현 검토,진행중,박병호,2025-05-15
+Samsung,MCU,3nm,NAND,임베디드 제어 검토 #138,완료,박지성,2025-07-28
+UMC,DSP,7nm,DRAM,알고리즘 가속 개발,완료,이정후,2025-06-02
+SK Hynix,Memory,7nm,DRAM,램 설계 벤치마크,검토중,최민수,2025-07-11
+Samsung,MCU,10nm,DRAM,저전력 MCU 분석,보류,손아섭,2025-07-07
+Samsung,SoC,20nm,NAND,시스템온칩 설계,대기중,이정후,2025-08-03
+GlobalFoundries,FPGA,16nm,NAND,논리회로 분석 #139,완료,박지성,2025-07-19
+TSMC,Memory,4nm,NAND,저장소 개선 시뮬레이션,진행중,장원삼,2025-08-10
+UMC,MCU,7nm,DRAM,제어 유닛 분석,검토중,손아섭,2025-06-06
+Samsung,FPGA,7nm,NAND,하드웨어 가속 분석,완료,오지환,2025-07-20
+Micron,DSP,7nm,NAND,신호처리 시뮬레이션,대기중,김철수,2025-08-09
+Intel,SoC,3nm,NAND,임베디드 시스템 테스트 #140,완료,홍길동,2025-05-29
+Intel,DSP,7nm,DRAM,DSP 최적화 검토,검토중,김현수,2025-07-28
+Samsung,GPU,10nm,DRAM,GPU 아키텍처 테스트,완료,이정후,2025-05-21
+SK Hynix,MCU,28nm,DRAM,저전력 MCU 분석,대기중,홍길동,2025-06-20
+GlobalFoundries,SoC,5nm,NAND,통합 회로 개선,보류,양의지,2025-05-30
+Micron,DSP,3nm,DRAM,DSP 최적화 평가 #141,검토중,김철수,2025-07-10
+UMC,FPGA,4nm,DRAM,FPGA 최적화 벤치마크,완료,장원삼,2025-05-31
+Micron,GPU,4nm,DRAM,그래픽 처리 개선,보류,이대호,2025-06-14
+Intel,DSP,7nm,NAND,데이터 처리 벤치마크,검토중,박병호,2025-08-08
+SK Hynix,DSP,20nm,NAND,필터 설계 구현,보류,박지성,2025-06-29
+TSMC,DSP,10nm,DRAM,신호처리 개선 #142,완료,양의지,2025-06-12
+Samsung,MCU,3nm,DRAM,마이크로컨트롤러 개선,완료,정수빈,2025-05-24
+UMC,DSP,20nm,DRAM,DSP 최적화 테스트,대기중,양의지,2025-07-02
+GlobalFoundries,Memory,16nm,DRAM,메모리 확장 벤치마크,진행중,이대호,2025-07-17
+GlobalFoundries,SoC,20nm,NAND,임베디드 시스템 시뮬레이션,보류,강민호,2025-05-27
+Intel,MCU,5nm,NAND,마이크로컨트롤러 구현 #143,대기중,김하성,2025-08-05
+Samsung,SoC,14nm,NAND,SoC 설계 벤치마크,보류,손아섭,2025-06-20
+Intel,GPU,7nm,NAND,GPU 성능 벤치마크,진행중,김현수,2025-05-22
+Intel,MCU,20nm,NAND,임베디드 제어 검토,보류,김하성,2025-07-29
+TSMC,SoC,10nm,DRAM,임베디드 시스템 개선,검토중,이영희,2025-07-23
+GlobalFoundries,SoC,10nm,NAND,통합 회로 설계 #144,진행중,박지성,2025-06-25
+Micron,MCU,3nm,NAND,마이크로컨트롤러 시뮬레이션,진행중,최민수,2025-05-18
+UMC,GPU,3nm,NAND,GPU 아키텍처 개발,검토중,이정후,2025-07-15
+Intel,MCU,3nm,DRAM,저전력 MCU 벤치마크,진행중,홍길동,2025-06-06
+SK Hynix,DSP,20nm,NAND,DSP 최적화 개발,대기중,최민수,2025-06-06
+SK Hynix,FPGA,20nm,NAND,프로그래머블 로직 시뮬레이션 #145,대기중,이대호,2025-07-22
+Intel,CPU,5nm,NAND,연산 처리 검증,검토중,정수빈,2025-08-06
+Samsung,MCU,5nm,NAND,MCU 설계 구현,진행중,손아섭,2025-07-07
+Samsung,DSP,14nm,NAND,DSP 최적화 검증,완료,윤석민,2025-05-15
+UMC,DSP,16nm,NAND,필터 설계 벤치마크,검토중,이영희,2025-06-04
+SK Hynix,FPGA,4nm,NAND,하드웨어 가속 개선 #146,보류,김철수,2025-06-03
+SK Hynix,CPU,10nm,DRAM,연산 처리 설계,검토중,손아섭,2025-06-29
+TSMC,Memory,3nm,DRAM,메모리 테스트 검증,완료,양의지,2025-06-30
+Samsung,SoC,28nm,DRAM,통합 회로 평가,대기중,박병호,2025-07-12
+Micron,FPGA,20nm,DRAM,논리회로 분석,대기중,윤석민,2025-07-14
+UMC,CPU,14nm,DRAM,코어 개발 검증 #147,보류,이영희,2025-07-05
+Samsung,FPGA,14nm,DRAM,논리회로 벤치마크,보류,박지성,2025-05-29
+GlobalFoundries,Memory,10nm,NAND,메모리 테스트 벤치마크,완료,박지성,2025-06-13
+Samsung,MCU,7nm,DRAM,MCU 설계 개선,대기중,홍길동,2025-07-14
+Samsung,GPU,14nm,NAND,GPU 성능 검토,보류,나성범,2025-05-30
+UMC,FPGA,10nm,DRAM,FPGA 최적화 시뮬레이션 #148,완료,장원삼,2025-07-27
+Micron,DSP,4nm,DRAM,DSP 최적화 구현,완료,양의지,2025-05-29
+Samsung,SoC,20nm,DRAM,복합 칩 시뮬레이션,진행중,이대호,2025-06-18
+Samsung,Memory,16nm,DRAM,메모리 최적화 시뮬레이션,보류,최민수,2025-05-31
+GlobalFoundries,FPGA,16nm,NAND,FPGA 구현 테스트,보류,김철수,2025-06-29
+Micron,GPU,7nm,DRAM,그래픽 처리 개발 #149,완료,박지성,2025-08-10
+GlobalFoundries,DSP,10nm,DRAM,알고리즘 가속 개발,검토중,이영희,2025-07-11
+Intel,GPU,28nm,NAND,GPU 성능 시뮬레이션,진행중,이대호,2025-05-21
+Micron,SoC,28nm,DRAM,SoC 설계 평가,완료,양의지,2025-08-04
+Intel,DSP,10nm,NAND,데이터 처리 구현,진행중,박지성,2025-07-02
+GlobalFoundries,GPU,10nm,NAND,그래픽 처리 테스트 #150,진행중,나성범,2025-05-15
+SK Hynix,MCU,10nm,DRAM,임베디드 제어 시뮬레이션,진행중,손아섭,2025-08-08
+Micron,FPGA,28nm,NAND,프로그래머블 로직 평가,대기중,강민호,2025-05-21
+GlobalFoundries,MCU,7nm,NAND,MCU 설계 벤치마크,완료,박병호,2025-07-21
+TSMC,MCU,28nm,NAND,저전력 MCU 설계,보류,손아섭,2025-06-06
+UMC,GPU,3nm,DRAM,그래픽 처리 분석 #151,보류,김현수,2025-06-14
+TSMC,SoC,20nm,DRAM,통합 회로 구현,진행중,김철수,2025-06-29
+GlobalFoundries,FPGA,20nm,DRAM,논리회로 개선,검토중,손아섭,2025-05-31
+TSMC,GPU,3nm,DRAM,GPU 성능 개발,보류,장원삼,2025-05-16
+UMC,DSP,14nm,NAND,신호처리 구현,보류,최민수,2025-07-16
+UMC,CPU,10nm,DRAM,CPU 성능 테스트 #152,대기중,이대호,2025-08-07
+GlobalFoundries,SoC,16nm,NAND,복합 칩 구현,대기중,최민수,2025-06-21
+Intel,MCU,5nm,NAND,저전력 MCU 검증,검토중,이영희,2025-06-08
+Intel,SoC,16nm,DRAM,SoC 설계 테스트,진행중,손아섭,2025-06-17
+UMC,GPU,7nm,NAND,렌더링 개선 구현,대기중,나성범,2025-05-30
+Intel,SoC,20nm,NAND,SoC 설계 검토 #153,진행중,이정후,2025-06-02
+Samsung,MCU,4nm,NAND,저전력 MCU 개발,보류,이정후,2025-07-19
+Intel,SoC,28nm,NAND,시스템온칩 평가,진행중,박지성,2025-05-23
+Micron,GPU,28nm,NAND,GPU 성능 벤치마크,보류,이정후,2025-08-02
+Intel,Memory,20nm,DRAM,메모리 테스트 개선,검토중,이정후,2025-05-30
+Micron,GPU,28nm,DRAM,GPU 아키텍처 시뮬레이션 #154,검토중,정수빈,2025-08-08
+UMC,DSP,14nm,NAND,필터 설계 검증,보류,박병호,2025-07-28
+SK Hynix,FPGA,28nm,DRAM,프로그래머블 로직 시뮬레이션,완료,최민수,2025-05-26
+Micron,CPU,14nm,NAND,CPU 성능 검토,검토중,정수빈,2025-07-10
+Intel,MCU,20nm,NAND,제어 유닛 검증,완료,윤석민,2025-07-16
+Micron,CPU,7nm,NAND,연산 처리 검증 #155,대기중,박병호,2025-06-07
+GlobalFoundries,DSP,10nm,DRAM,신호처리 분석,완료,이정후,2025-06-08
+SK Hynix,FPGA,14nm,DRAM,하드웨어 가속 테스트,보류,이영희,2025-06-27
+GlobalFoundries,DSP,7nm,NAND,필터 설계 평가,보류,박병호,2025-08-05
+TSMC,Memory,28nm,NAND,메모리 최적화 분석,보류,홍길동,2025-07-11
+SK Hynix,MCU,16nm,NAND,MCU 설계 테스트 #156,완료,김철수,2025-07-09
+TSMC,SoC,5nm,NAND,시스템온칩 개선,대기중,김하성,2025-07-11
+Micron,GPU,7nm,NAND,렌더링 개선 설계,진행중,박지성,2025-07-03
+SK Hynix,Memory,10nm,DRAM,메모리 테스트 벤치마크,대기중,강민호,2025-05-26
+Intel,DSP,3nm,DRAM,데이터 처리 시뮬레이션,완료,김철수,2025-05-26
+GlobalFoundries,CPU,4nm,NAND,코어 개발 분석 #157,대기중,손아섭,2025-07-31
+Micron,MCU,7nm,NAND,제어 유닛 검토,보류,김현수,2025-05-30
+Samsung,Memory,28nm,NAND,메모리 확장 평가,대기중,나성범,2025-08-09
+TSMC,CPU,10nm,DRAM,프로세서 최적화 검토,완료,박병호,2025-07-13
+Intel,CPU,16nm,NAND,연산 처리 테스트,완료,박지성,2025-07-21
+TSMC,Memory,28nm,NAND,메모리 테스트 구현 #158,보류,김하성,2025-06-01
+SK Hynix,FPGA,16nm,DRAM,FPGA 구현 테스트,완료,양의지,2025-07-15
+TSMC,CPU,28nm,NAND,CPU 성능 개선,검토중,이정후,2025-08-07
+Intel,SoC,14nm,DRAM,시스템온칩 검토,완료,김철수,2025-05-22
+TSMC,GPU,28nm,DRAM,그래픽 처리 분석,대기중,최민수,2025-07-15
+GlobalFoundries,GPU,10nm,NAND,렌더링 개선 벤치마크 #159,진행중,장원삼,2025-06-09
+Samsung,MCU,20nm,NAND,저전력 MCU 테스트,검토중,강민호,2025-05-24
+GlobalFoundries,FPGA,4nm,NAND,FPGA 구현 검토,진행중,홍길동,2025-05-26
+SK Hynix,MCU,7nm,NAND,저전력 MCU 설계,대기중,김하성,2025-07-30
+UMC,CPU,20nm,DRAM,연산 처리 검증,완료,윤석민,2025-05-28
+UMC,Memory,4nm,NAND,메모리 최적화 개발 #160,진행중,이정후,2025-06-12
+SK Hynix,SoC,5nm,DRAM,SoC 설계 평가,완료,최민수,2025-06-25
+SK Hynix,DSP,14nm,DRAM,알고리즘 가속 구현,대기중,홍길동,2025-07-16
+Micron,GPU,28nm,NAND,비주얼 엔진 시뮬레이션,검토중,정수빈,2025-05-21
+SK Hynix,Memory,10nm,NAND,램 설계 평가,대기중,강민호,2025-06-25
+UMC,GPU,14nm,DRAM,렌더링 개선 분석 #161,완료,박지성,2025-07-07
+TSMC,MCU,4nm,DRAM,임베디드 제어 검증,검토중,이대호,2025-07-21
+TSMC,DSP,28nm,DRAM,알고리즘 가속 개선,대기중,홍길동,2025-06-09
+Samsung,CPU,10nm,NAND,CPU 설계 검토,진행중,손아섭,2025-06-07
+SK Hynix,Memory,10nm,DRAM,메모리 최적화 구현,보류,이영희,2025-06-27
+Samsung,GPU,7nm,DRAM,GPU 성능 개발 #162,진행중,손아섭,2025-05-29
+SK Hynix,SoC,10nm,NAND,복합 칩 분석,완료,박지성,2025-08-12
+TSMC,DSP,5nm,NAND,신호처리 설계,완료,김하성,2025-05-25
+UMC,SoC,16nm,NAND,SoC 설계 구현,보류,양의지,2025-06-06
+Samsung,DSP,3nm,NAND,신호처리 분석,대기중,이정후,2025-07-09
+TSMC,SoC,4nm,NAND,복합 칩 설계 #163,완료,김현수,2025-07-21
+Intel,MCU,5nm,DRAM,제어 유닛 검증,진행중,윤석민,2025-07-21
+Intel,DSP,5nm,NAND,DSP 최적화 분석,진행중,이대호,2025-07-12
+Micron,DSP,7nm,NAND,알고리즘 가속 분석,보류,김현수,2025-06-13
+TSMC,Memory,14nm,NAND,램 설계 구현,대기중,이정후,2025-06-06
+SK Hynix,Memory,10nm,DRAM,메모리 확장 구현 #164,대기중,이대호,2025-07-20
+Intel,MCU,14nm,DRAM,제어 유닛 구현,대기중,박병호,2025-07-23
+Micron,FPGA,28nm,NAND,하드웨어 가속 테스트,진행중,이정후,2025-06-05
+GlobalFoundries,SoC,10nm,NAND,복합 칩 분석,진행중,이영희,2025-08-09
+Samsung,CPU,7nm,DRAM,연산 처리 검증,검토중,나성범,2025-06-03
+TSMC,FPGA,3nm,NAND,FPGA 구현 개발 #165,완료,이정후,2025-05-29
+TSMC,SoC,10nm,DRAM,임베디드 시스템 평가,완료,최민수,2025-07-31
+UMC,DSP,10nm,NAND,신호처리 평가,진행중,손아섭,2025-07-22
+SK Hynix,GPU,16nm,DRAM,GPU 아키텍처 개발,진행중,김철수,2025-07-16
+UMC,GPU,7nm,NAND,그래픽 처리 테스트,대기중,김현수,2025-08-01
+UMC,DSP,20nm,NAND,필터 설계 벤치마크 #166,보류,윤석민,2025-05-21
+Intel,DSP,20nm,DRAM,필터 설계 검토,완료,홍길동,2025-06-10
+Samsung,FPGA,16nm,DRAM,FPGA 최적화 개발,검토중,최민수,2025-08-04
+TSMC,MCU,4nm,DRAM,저전력 MCU 개발,진행중,박지성,2025-06-22
+TSMC,CPU,3nm,DRAM,코어 개발 개발,검토중,윤석민,2025-08-08
+Intel,DSP,5nm,NAND,신호처리 검증 #167,검토중,양의지,2025-07-30
+TSMC,FPGA,5nm,NAND,하드웨어 가속 벤치마크,진행중,이정후,2025-05-26
+Micron,MCU,20nm,DRAM,마이크로컨트롤러 개선,검토중,박병호,2025-05-23
+SK Hynix,Memory,7nm,NAND,메모리 확장 구현,검토중,양의지,2025-07-21
+GlobalFoundries,FPGA,3nm,NAND,FPGA 최적화 벤치마크,진행중,나성범,2025-06-17
+UMC,CPU,14nm,NAND,CPU 설계 개발 #168,완료,이대호,2025-07-05
+Intel,SoC,5nm,DRAM,시스템온칩 분석,진행중,박지성,2025-08-04
+TSMC,GPU,3nm,NAND,GPU 아키텍처 테스트,진행중,이정후,2025-06-29
+TSMC,SoC,5nm,NAND,시스템온칩 평가,대기중,양의지,2025-06-16
+SK Hynix,FPGA,10nm,DRAM,하드웨어 가속 개선,검토중,박지성,2025-07-07
+Samsung,FPGA,5nm,DRAM,프로그래머블 로직 벤치마크 #169,완료,이영희,2025-07-11
+GlobalFoundries,SoC,10nm,DRAM,복합 칩 개선,대기중,이영희,2025-05-23
+Samsung,SoC,5nm,DRAM,SoC 설계 검증,검토중,윤석민,2025-06-19
+Intel,FPGA,4nm,DRAM,논리회로 개선,완료,김철수,2025-06-06
+SK Hynix,SoC,16nm,DRAM,복합 칩 테스트,대기중,이영희,2025-08-08
+UMC,FPGA,3nm,NAND,FPGA 최적화 검토 #170,진행중,정수빈,2025-05-28
+Micron,Memory,16nm,DRAM,램 설계 개발,보류,박지성,2025-07-17
+Intel,DSP,20nm,DRAM,신호처리 벤치마크,진행중,박지성,2025-06-13
+Samsung,DSP,10nm,DRAM,데이터 처리 구현,검토중,나성범,2025-07-27
+UMC,MCU,14nm,DRAM,제어 유닛 분석,대기중,손아섭,2025-07-31
+UMC,MCU,20nm,NAND,임베디드 제어 분석 #171,완료,최민수,2025-06-19
+TSMC,CPU,28nm,NAND,CPU 성능 평가,검토중,정수빈,2025-06-06
+Intel,MCU,14nm,NAND,저전력 MCU 평가,완료,이정후,2025-07-14
+Micron,GPU,4nm,NAND,비주얼 엔진 검증,보류,정수빈,2025-08-07
+Samsung,GPU,5nm,DRAM,그래픽 처리 설계,보류,홍길동,2025-06-06
+Micron,MCU,20nm,NAND,저전력 MCU 시뮬레이션 #172,대기중,이정후,2025-08-12
+Intel,SoC,14nm,NAND,시스템온칩 분석,대기중,장원삼,2025-05-26
+TSMC,FPGA,10nm,NAND,논리회로 분석,진행중,김철수,2025-08-12
+Intel,MCU,28nm,NAND,임베디드 제어 검토,진행중,장원삼,2025-05-24
+SK Hynix,MCU,10nm,NAND,임베디드 제어 설계,보류,윤석민,2025-06-14
+GlobalFoundries,CPU,20nm,NAND,프로세서 최적화 평가 #173,대기중,홍길동,2025-07-25
+GlobalFoundries,SoC,7nm,NAND,시스템온칩 평가,검토중,장원삼,2025-06-30
+Intel,Memory,5nm,NAND,메모리 확장 시뮬레이션,보류,정수빈,2025-07-07
+GlobalFoundries,MCU,16nm,NAND,임베디드 제어 벤치마크,대기중,김하성,2025-06-27
+TSMC,Memory,10nm,DRAM,저장소 개선 개발,검토중,최민수,2025-07-15
+Intel,CPU,20nm,NAND,연산 처리 개선 #174,완료,오지환,2025-07-13
+Micron,GPU,3nm,NAND,렌더링 개선 검토,완료,김철수,2025-07-31
+UMC,Memory,10nm,DRAM,램 설계 벤치마크,보류,윤석민,2025-06-26
+TSMC,FPGA,3nm,DRAM,하드웨어 가속 테스트,검토중,오지환,2025-08-03
+SK Hynix,GPU,28nm,NAND,GPU 성능 테스트,완료,윤석민,2025-07-06
+SK Hynix,CPU,5nm,NAND,코어 개발 설계 #175,완료,박지성,2025-06-04
+Samsung,SoC,10nm,NAND,시스템온칩 벤치마크,완료,이영희,2025-05-16
+Samsung,SoC,28nm,NAND,임베디드 시스템 시뮬레이션,대기중,손아섭,2025-07-16
+Samsung,DSP,7nm,NAND,데이터 처리 분석,대기중,김철수,2025-06-09
+GlobalFoundries,GPU,4nm,DRAM,GPU 아키텍처 분석,대기중,김철수,2025-06-15
+TSMC,MCU,28nm,NAND,MCU 설계 평가 #176,완료,홍길동,2025-08-02
+SK Hynix,FPGA,16nm,DRAM,프로그래머블 로직 구현,보류,박병호,2025-05-16
+UMC,GPU,5nm,NAND,GPU 아키텍처 벤치마크,검토중,나성범,2025-07-26
+Samsung,CPU,10nm,DRAM,CPU 설계 개선,보류,장원삼,2025-07-20
+SK Hynix,DSP,28nm,DRAM,신호처리 개선,완료,나성범,2025-07-07
+GlobalFoundries,FPGA,28nm,NAND,프로그래머블 로직 테스트 #177,진행중,홍길동,2025-05-18
+GlobalFoundries,GPU,16nm,DRAM,비주얼 엔진 벤치마크,완료,손아섭,2025-07-31
+Micron,CPU,5nm,DRAM,CPU 설계 벤치마크,진행중,김하성,2025-05-15
+TSMC,FPGA,16nm,NAND,FPGA 최적화 벤치마크,진행중,김현수,2025-08-07
+TSMC,CPU,3nm,DRAM,CPU 성능 평가,검토중,장원삼,2025-06-06
+UMC,FPGA,20nm,DRAM,프로그래머블 로직 분석 #178,완료,김하성,2025-07-08
+GlobalFoundries,Memory,20nm,NAND,램 설계 시뮬레이션,대기중,이대호,2025-05-30
+Samsung,DSP,10nm,DRAM,신호처리 구현,완료,김철수,2025-07-07
+SK Hynix,MCU,5nm,NAND,제어 유닛 시뮬레이션,보류,홍길동,2025-06-05
+SK Hynix,GPU,28nm,DRAM,렌더링 개선 벤치마크,진행중,김철수,2025-07-19
+Intel,DSP,3nm,DRAM,필터 설계 검토 #179,진행중,윤석민,2025-07-21
+Intel,CPU,10nm,DRAM,CPU 성능 테스트,보류,장원삼,2025-07-17
+SK Hynix,CPU,3nm,DRAM,연산 처리 평가,보류,이영희,2025-07-28
+GlobalFoundries,DSP,16nm,NAND,알고리즘 가속 시뮬레이션,대기중,양의지,2025-06-26
+UMC,Memory,16nm,NAND,저장소 개선 테스트,완료,이정후,2025-06-23
+TSMC,SoC,20nm,DRAM,SoC 설계 검증 #180,대기중,이정후,2025-05-15
+UMC,DSP,28nm,NAND,데이터 처리 설계,보류,오지환,2025-08-08
+Micron,FPGA,3nm,DRAM,하드웨어 가속 검증,대기중,이영희,2025-05-16
+Intel,SoC,7nm,DRAM,시스템온칩 구현,완료,이영희,2025-05-23
+GlobalFoundries,GPU,5nm,DRAM,그래픽 처리 분석,완료,박병호,2025-05-19
+Samsung,SoC,7nm,DRAM,복합 칩 테스트 #181,보류,오지환,2025-05-19
+Intel,DSP,20nm,DRAM,알고리즘 가속 설계,대기중,양의지,2025-06-21
+GlobalFoundries,DSP,7nm,NAND,신호처리 개발,대기중,이영희,2025-05-21
+Micron,CPU,7nm,NAND,CPU 성능 분석,대기중,이영희,2025-06-27
+UMC,FPGA,28nm,NAND,FPGA 최적화 벤치마크,대기중,최민수,2025-08-07
+TSMC,FPGA,5nm,NAND,프로그래머블 로직 구현 #182,보류,홍길동,2025-05-19
+SK Hynix,FPGA,5nm,NAND,프로그래머블 로직 테스트,대기중,나성범,2025-08-02
+Intel,MCU,20nm,NAND,제어 유닛 개선,진행중,나성범,2025-06-24
+Intel,GPU,3nm,DRAM,GPU 성능 검증,대기중,손아섭,2025-05-30
+Micron,CPU,20nm,NAND,코어 개발 개발,검토중,이정후,2025-06-23
+Samsung,SoC,3nm,NAND,임베디드 시스템 테스트 #183,검토중,이영희,2025-08-02
+Micron,MCU,16nm,DRAM,마이크로컨트롤러 검토,보류,김하성,2025-08-07
+Micron,MCU,16nm,DRAM,MCU 설계 개발,완료,김현수,2025-05-23
+Micron,FPGA,20nm,NAND,논리회로 분석,보류,손아섭,2025-07-09
+TSMC,Memory,16nm,DRAM,램 설계 시뮬레이션,대기중,박병호,2025-07-22
+UMC,SoC,7nm,NAND,임베디드 시스템 검증 #184,검토중,박병호,2025-06-27
+TSMC,DSP,20nm,DRAM,DSP 최적화 구현,진행중,박지성,2025-07-29
+TSMC,FPGA,10nm,DRAM,논리회로 개발,검토중,장원삼,2025-08-02
+TSMC,DSP,16nm,DRAM,신호처리 개발,보류,양의지,2025-06-10
+SK Hynix,DSP,10nm,DRAM,데이터 처리 분석,완료,이대호,2025-07-26
+Intel,GPU,3nm,NAND,그래픽 처리 설계 #185,검토중,홍길동,2025-07-27
+Intel,FPGA,28nm,DRAM,프로그래머블 로직 벤치마크,검토중,손아섭,2025-08-09
+Samsung,SoC,16nm,DRAM,복합 칩 검증,검토중,장원삼,2025-07-09
+UMC,CPU,16nm,NAND,코어 개발 개선,대기중,박병호,2025-06-25
+GlobalFoundries,DSP,4nm,NAND,알고리즘 가속 검토,검토중,나성범,2025-07-27
+TSMC,DSP,14nm,DRAM,알고리즘 가속 시뮬레이션 #186,대기중,강민호,2025-07-13
+GlobalFoundries,DSP,4nm,DRAM,신호처리 개발,완료,이정후,2025-05-25
+SK Hynix,FPGA,3nm,DRAM,프로그래머블 로직 검토,완료,김철수,2025-07-30
+Samsung,Memory,14nm,NAND,메모리 최적화 구현,진행중,이대호,2025-06-03
+SK Hynix,GPU,20nm,DRAM,비주얼 엔진 검증,검토중,양의지,2025-05-31
+TSMC,CPU,5nm,NAND,연산 처리 분석 #187,진행중,이대호,2025-07-26
+Micron,Memory,14nm,DRAM,메모리 최적화 분석,보류,이정후,2025-08-02
+UMC,GPU,14nm,NAND,GPU 아키텍처 설계,검토중,이대호,2025-07-11
+Samsung,Memory,16nm,NAND,램 설계 분석,대기중,박병호,2025-07-13
+Micron,GPU,5nm,NAND,GPU 성능 구현,검토중,정수빈,2025-06-08
+Micron,SoC,10nm,DRAM,복합 칩 검증 #188,검토중,양의지,2025-07-14
+Intel,GPU,5nm,NAND,그래픽 처리 검증,대기중,강민호,2025-08-11
+Micron,FPGA,5nm,NAND,논리회로 분석,대기중,홍길동,2025-08-10
+Samsung,GPU,7nm,DRAM,그래픽 처리 분석,완료,이대호,2025-06-28
+Micron,Memory,10nm,NAND,메모리 확장 시뮬레이션,검토중,장원삼,2025-07-07
+TSMC,FPGA,7nm,NAND,프로그래머블 로직 테스트 #189,완료,김철수,2025-06-11
+Intel,SoC,10nm,NAND,복합 칩 개발,검토중,박지성,2025-07-28
+TSMC,MCU,16nm,NAND,저전력 MCU 시뮬레이션,보류,최민수,2025-06-30
+Micron,CPU,14nm,NAND,CPU 성능 평가,대기중,양의지,2025-06-02
+GlobalFoundries,DSP,3nm,NAND,데이터 처리 개발,대기중,나성범,2025-07-25
+Micron,MCU,3nm,DRAM,임베디드 제어 검토 #190,보류,나성범,2025-07-14
+SK Hynix,Memory,16nm,DRAM,메모리 테스트 검증,완료,최민수,2025-06-10
+SK Hynix,GPU,20nm,NAND,렌더링 개선 검토,진행중,이대호,2025-07-11
+Intel,FPGA,10nm,NAND,FPGA 구현 개발,완료,오지환,2025-07-25
+Micron,GPU,10nm,NAND,GPU 성능 개선,완료,양의지,2025-08-07
+Micron,SoC,14nm,NAND,복합 칩 검토 #191,완료,김하성,2025-06-30
+UMC,SoC,5nm,DRAM,시스템온칩 검증,보류,최민수,2025-06-20
+Samsung,SoC,20nm,NAND,SoC 설계 평가,진행중,김철수,2025-06-09
+Intel,GPU,20nm,DRAM,GPU 성능 분석,완료,이정후,2025-07-15
+SK Hynix,MCU,10nm,DRAM,저전력 MCU 검토,검토중,양의지,2025-06-21
+UMC,MCU,28nm,DRAM,마이크로컨트롤러 검토 #192,대기중,이정후,2025-06-20
+SK Hynix,MCU,28nm,DRAM,MCU 설계 테스트,대기중,최민수,2025-06-27
+TSMC,GPU,7nm,DRAM,GPU 성능 분석,보류,박지성,2025-08-03
+Micron,GPU,20nm,DRAM,GPU 아키텍처 개발,진행중,김현수,2025-06-10
+GlobalFoundries,GPU,7nm,NAND,GPU 성능 테스트,완료,손아섭,2025-07-31
+UMC,CPU,16nm,NAND,CPU 성능 검증 #193,진행중,박지성,2025-05-25
+TSMC,DSP,16nm,NAND,신호처리 분석,완료,김철수,2025-05-26
+Micron,SoC,14nm,NAND,복합 칩 분석,진행중,오지환,2025-06-08
+TSMC,GPU,5nm,DRAM,그래픽 처리 벤치마크,검토중,손아섭,2025-07-15
+UMC,FPGA,28nm,DRAM,논리회로 설계,완료,나성범,2025-07-06
+Samsung,DSP,28nm,DRAM,필터 설계 구현 #194,검토중,손아섭,2025-05-20
+Samsung,MCU,28nm,DRAM,저전력 MCU 검증,보류,장원삼,2025-08-02
+GlobalFoundries,DSP,28nm,NAND,알고리즘 가속 구현,완료,양의지,2025-07-25
+Samsung,FPGA,28nm,NAND,FPGA 최적화 개발,검토중,이영희,2025-06-11
+SK Hynix,CPU,10nm,NAND,코어 개발 시뮬레이션,완료,오지환,2025-06-02
+SK Hynix,FPGA,14nm,DRAM,하드웨어 가속 구현 #195,보류,장원삼,2025-07-21
+Micron,MCU,20nm,NAND,임베디드 제어 시뮬레이션,보류,오지환,2025-07-02
+UMC,CPU,16nm,DRAM,CPU 성능 개선,보류,손아섭,2025-05-28
+TSMC,MCU,28nm,DRAM,제어 유닛 분석,완료,나성범,2025-06-12
+SK Hynix,MCU,7nm,NAND,제어 유닛 구현,대기중,김현수,2025-06-13
+GlobalFoundries,GPU,20nm,DRAM,비주얼 엔진 검토 #196,보류,김철수,2025-07-05
+TSMC,FPGA,14nm,DRAM,FPGA 최적화 시뮬레이션,보류,나성범,2025-06-15
+Intel,FPGA,5nm,NAND,하드웨어 가속 분석,검토중,나성범,2025-07-29
+UMC,MCU,7nm,DRAM,저전력 MCU 검토,보류,양의지,2025-07-18
+SK Hynix,MCU,16nm,NAND,마이크로컨트롤러 개선,완료,홍길동,2025-06-01
+GlobalFoundries,MCU,5nm,NAND,저전력 MCU 구현 #197,완료,최민수,2025-08-03
+Micron,GPU,28nm,DRAM,렌더링 개선 검증,진행중,정수빈,2025-08-02
+TSMC,SoC,28nm,DRAM,통합 회로 구현,완료,나성범,2025-07-25
+UMC,FPGA,28nm,NAND,FPGA 최적화 개선,대기중,김하성,2025-06-18
+Intel,DSP,3nm,DRAM,신호처리 벤치마크,대기중,장원삼,2025-06-16
+Intel,GPU,3nm,DRAM,비주얼 엔진 테스트 #198,완료,김현수,2025-06-09
+Samsung,FPGA,28nm,NAND,논리회로 개발,대기중,나성범,2025-07-01
+Micron,Memory,28nm,DRAM,메모리 테스트 시뮬레이션,대기중,장원삼,2025-05-20
+UMC,SoC,7nm,DRAM,임베디드 시스템 개선,보류,최민수,2025-06-26
+GlobalFoundries,MCU,3nm,DRAM,마이크로컨트롤러 검증,완료,김하성,2025-06-26
+UMC,CPU,5nm,DRAM,연산 처리 검토 #199,대기중,나성범,2025-08-10
+Micron,GPU,7nm,NAND,비주얼 엔진 개발,대기중,이대호,2025-05-28
+Intel,DSP,7nm,NAND,DSP 최적화 검증,검토중,김철수,2025-06-15
+Samsung,MCU,28nm,NAND,임베디드 제어 설계,검토중,이영희,2025-05-28
+UMC,CPU,20nm,NAND,CPU 성능 검토,진행중,박지성,2025-07-30
